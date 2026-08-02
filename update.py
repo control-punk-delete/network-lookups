@@ -9,7 +9,7 @@ ExporterIndex = ExporterIndex()
 
 async def main():
 
-    async with httpx.AsyncClient(timeout=30, follow_redirects=True) as session:
+    async with httpx.AsyncClient(timeout=300, follow_redirects=True) as session:
 
         providers = load_providers(session)
         results = await asyncio.gather(*(provider.fetch() for provider in providers))
