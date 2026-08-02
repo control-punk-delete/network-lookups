@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "lookup_version": "0.1.0",
+  "generated": "2026-08-02T11:56:52.418118+00:00",
+  "providers": 17,
+  "categories": 3,
+  "prefixes": 42660,
+  "providers_stats": [
+    {
+      "provider": "Akamai",
+      "category": "cdn",
+      "prefixes": 4819
+    },
+    {
+      "provider": "Cloudflare",
+      "category": "cdn",
+      "prefixes": 5438
+    },
+    {
+      "provider": "CDN77",
+      "category": "cdn",
+      "prefixes": 454
+    },
+    {
+      "provider": "Fastly",
+      "category": "cdn",
+      "prefixes": 1602
+    },
+    {
+      "provider": "Stackpath",
+      "category": "cdn",
+      "prefixes": 34
+    },
+    {
+      "provider": "Alibaba",
+      "category": "cloud",
+      "prefixes": 962
+    },
+    {
+      "provider": "Amazon Leo",
+      "category": "cloud",
+      "prefixes": 30
+    },
+    {
+      "provider": "Amazon AWS",
+      "category": "cloud",
+      "prefixes": 19774
+    },
+    {
+      "provider": "Azure",
+      "category": "cloud",
+      "prefixes": 1033
+    },
+    {
+      "provider": "Digital Ocean",
+      "category": "cloud",
+      "prefixes": 844
+    },
+    {
+      "provider": "Google",
+      "category": "cloud",
+      "prefixes": 1243
+    },
+    {
+      "provider": "IBM Cloud",
+      "category": "cloud",
+      "prefixes": 402
+    },
+    {
+      "provider": "Linode Akamai",
+      "category": "cloud",
+      "prefixes": 437
+    },
+    {
+      "provider": "Oracle",
+      "category": "cloud",
+      "prefixes": 2697
+    },
+    {
+      "provider": "Tencent",
+      "category": "cloud",
+      "prefixes": 1076
+    },
+    {
+      "provider": "Vultr",
+      "category": "cloud",
+      "prefixes": 1620
+    },
+    {
+      "provider": "Go Daddy",
+      "category": "hosting",
+      "prefixes": 195
+    }
+  ]
+}
