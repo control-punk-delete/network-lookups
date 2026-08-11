@@ -1,25 +1,60 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-11T02:00:27.154007+00:00",
-  "providers": 17,
+  "generated": "2026-08-11T13:03:10.439999+00:00",
+  "providers": 32,
   "categories": 3,
-  "prefixes": 42660,
+  "prefixes": 59913,
   "providers_stats": [
+    {
+      "provider": "Akamai",
+      "category": "cdn",
+      "prefixes": 10507
+    },
+    {
+      "provider": "Bunny",
+      "category": "cdn",
+      "prefixes": 1324
+    },
+    {
+      "provider": "Cachefly",
+      "category": "cdn",
+      "prefixes": 16
+    },
+    {
+      "provider": "Cloudflare",
+      "category": "cdn",
+      "prefixes": 22
+    },
+    {
+      "provider": "Fastly",
+      "category": "cdn",
+      "prefixes": 21
+    },
+    {
+      "provider": "G-Core",
+      "category": "cdn",
+      "prefixes": 1836
+    },
+    {
+      "provider": "Quic-cloud",
+      "category": "cdn",
+      "prefixes": 153
+    },
     {
       "provider": "Akamai",
       "category": "cdn",
       "prefixes": 4819
     },
     {
-      "provider": "Cloudflare",
-      "category": "cdn",
-      "prefixes": 5438
-    },
-    {
       "provider": "CDN77",
       "category": "cdn",
       "prefixes": 454
+    },
+    {
+      "provider": "Cloudflare",
+      "category": "cdn",
+      "prefixes": 5438
     },
     {
       "provider": "Fastly",
@@ -37,14 +72,14 @@
       "prefixes": 962
     },
     {
-      "provider": "Amazon Leo",
-      "category": "cloud",
-      "prefixes": 30
-    },
-    {
       "provider": "Amazon AWS",
       "category": "cloud",
       "prefixes": 19774
+    },
+    {
+      "provider": "Amazon Leo",
+      "category": "cloud",
+      "prefixes": 30
     },
     {
       "provider": "Azure",
@@ -87,9 +122,49 @@
       "prefixes": 1620
     },
     {
+      "provider": "Bluehost",
+      "category": "hosting",
+      "prefixes": 285
+    },
+    {
+      "provider": "Contabo",
+      "category": "hosting",
+      "prefixes": 572
+    },
+    {
       "provider": "Go Daddy",
       "category": "hosting",
       "prefixes": 195
+    },
+    {
+      "provider": "Hetzner",
+      "category": "hosting",
+      "prefixes": 88
+    },
+    {
+      "provider": "Hostinger",
+      "category": "hosting",
+      "prefixes": 963
+    },
+    {
+      "provider": "IONOS",
+      "category": "hosting",
+      "prefixes": 479
+    },
+    {
+      "provider": "Namecheap",
+      "category": "hosting",
+      "prefixes": 318
+    },
+    {
+      "provider": "OVH",
+      "category": "hosting",
+      "prefixes": 640
+    },
+    {
+      "provider": "Scaleway",
+      "category": "hosting",
+      "prefixes": 29
     }
   ]
 }
