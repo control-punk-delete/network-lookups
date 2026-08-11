@@ -1,16 +1,15 @@
-
-#https://scanitex.com/en/resources/asn-database/cloudflare/download/txt
-
 from providers.base import BaseProvider
 from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderCloudflare(BaseProvider):
-    name = "Cloudflare"
+class ProviderCloudIPRangesFastly(BaseProvider):
+    name = "Fastly"
     category = "cdn"
-    url = "https://scanitex.com/en/resources/asn-database/cloudflare/download/txt"
+    source = "cloud-ip-ranges"
+
+    url = "https://cloud-ip-ranges.com/download/fastly.txt"
+
 
     async def fetch(self) -> ProviderResults:
 
@@ -30,8 +29,5 @@ class ProviderCloudflare(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
-
-    
-
 
     

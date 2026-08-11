@@ -3,9 +3,11 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-class ProviderAkamai(BaseProvider):
+class ProviderScanitexAkamai(BaseProvider):
     name = "Akamai"
     category = "cdn"
+    source = "scanitex"
+
     url = "https://scanitex.com/en/resources/asn-database/akamai/download/txt"
 
 

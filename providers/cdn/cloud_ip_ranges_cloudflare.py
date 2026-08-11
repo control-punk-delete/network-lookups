@@ -3,12 +3,12 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderCdn77(BaseProvider):
-    name = "CDN77"
+class ProviderCloudIPRangesCloudflare(BaseProvider):
+    name = "Cloudflare"
     category = "cdn"
-    url = "https://scanitex.com/en/resources/asn-database/cdn77/download/txt"
+    source = "cloud-ip-ranges"
 
+    url = "https://cloud-ip-ranges.com/download/cloudflare.txt"
 
 
     async def fetch(self) -> ProviderResults:

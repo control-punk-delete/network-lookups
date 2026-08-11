@@ -3,12 +3,12 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderFastly(BaseProvider):
-    name = "Fastly"
+class ProviderCloudIPRangesCachefly(BaseProvider):
+    name = "Cachefly"
     category = "cdn"
-    url = "https://scanitex.com/en/resources/asn-database/fastly/download/txt"
+    source = "cloud-ip-ranges"
 
+    url = "https://cloud-ip-ranges.com/download/cachefly.txt"
 
 
     async def fetch(self) -> ProviderResults:

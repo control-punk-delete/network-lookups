@@ -3,9 +3,10 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-class ProviderStackpath(BaseProvider):
+class ProviderScanitexStackpath(BaseProvider):
     name = "Stackpath"
     category = "cdn"
+    source = "scanitex"
     url = "https://scanitex.com/en/resources/asn-database/stackpath/download/txt"
 
 
