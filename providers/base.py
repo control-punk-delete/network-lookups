@@ -12,7 +12,7 @@ class BaseProvider(ABC):
 
     def __init__(self, sesion: AsyncClient):
         self.session = sesion
-        self.results = ProviderResults(self.name, self.category)
+        self.results = ProviderResults(self.name, self.category, self.source)
 
     
     @abstractmethod
