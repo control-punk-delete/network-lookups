@@ -31,7 +31,6 @@ from providers.cloud import (
     ProviderScanitexOracle,
     ProviderScanitexTencent,
     ProviderScanitexVultr
-]
 )
 
 
