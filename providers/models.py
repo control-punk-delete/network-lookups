@@ -25,6 +25,7 @@ class NetworkPrefix:
 class ProviderResults:
     provider: str
     category: str
+    source: str
     prefixes: list[NetworkPrefix] = field(
         default_factory=list
     )

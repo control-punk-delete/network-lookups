@@ -3,13 +3,11 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderLinodeAkamai(BaseProvider):
-    name = "Linode Akamai"
-    category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/linode/download/txt"
-
-
+class ProviderScanitexScaleway(BaseProvider):
+    name = "Scaleway"
+    category = "hosting"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/scaleway/download/txt"
 
     async def fetch(self) -> ProviderResults:
 
@@ -29,5 +27,3 @@ class ProviderLinodeAkamai(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
-
-    

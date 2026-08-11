@@ -3,10 +3,11 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-class ProviderGoDaddy(BaseProvider):
-    name = "Go Daddy"
+class ProviderScanitexBluehost(BaseProvider):
+    name = "Bluehost"
     category = "hosting"
-    url = "https://scanitex.com/en/resources/asn-database/godaddy/download/txt"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/bluehost/download/txt"
 
     async def fetch(self) -> ProviderResults:
 

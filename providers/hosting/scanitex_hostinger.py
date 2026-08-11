@@ -3,11 +3,11 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderVultr(BaseProvider):
-    name = "Vultr"
-    category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/vultr/download/txt"
+class ProviderScanitexHostinger(BaseProvider):
+    name = "Hostinger"
+    category = "hosting"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/hostinger/download/txt"
 
     async def fetch(self) -> ProviderResults:
 

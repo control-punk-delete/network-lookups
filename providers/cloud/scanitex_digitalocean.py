@@ -4,10 +4,13 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderAlibaba(BaseProvider):
-    name = "Alibaba"
+class ProviderScanitexDigitalOcean(BaseProvider):
+    name = "Digital Ocean"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/alibaba-cloud/download/txt"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/digitalocean/download/txt"
+
+
 
     async def fetch(self) -> ProviderResults:
 
@@ -27,5 +30,3 @@ class ProviderAlibaba(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
-
-    

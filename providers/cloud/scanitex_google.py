@@ -4,12 +4,11 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderAmazon(BaseProvider):
-    name = "Amazon AWS"
+class ProviderScanitexGoogle(BaseProvider):
+    name = "Google"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/amazon-aws/download/txt"
-
-
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/google/download/txt"
 
     async def fetch(self) -> ProviderResults:
 

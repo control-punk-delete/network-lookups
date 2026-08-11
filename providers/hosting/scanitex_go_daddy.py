@@ -3,11 +3,11 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-
-class ProviderGoogle(BaseProvider):
-    name = "Google"
-    category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/google/download/txt"
+class ProviderScanitexGoDaddy(BaseProvider):
+    name = "Go Daddy"
+    category = "hosting"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/godaddy/download/txt"
 
     async def fetch(self) -> ProviderResults:
 
@@ -27,5 +27,3 @@ class ProviderGoogle(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
-
-    

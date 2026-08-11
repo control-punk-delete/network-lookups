@@ -4,11 +4,11 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderOracle(BaseProvider):
-    name = "Oracle"
+class ProviderScanitexAmazonLeo(BaseProvider):
+    name = "Amazon Leo"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/oracle-cloud/download/txt"
-
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/amazon-leo/download/txt"
 
     async def fetch(self) -> ProviderResults:
 
@@ -28,5 +28,3 @@ class ProviderOracle(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
-
-    

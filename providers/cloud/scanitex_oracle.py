@@ -4,11 +4,11 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderIBMCloud(BaseProvider):
-    name = "IBM Cloud"
+class ProviderScanitexOracle(BaseProvider):
+    name = "Oracle"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/ibm-cloud/download/txt"
-
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/oracle-cloud/download/txt"
 
 
     async def fetch(self) -> ProviderResults:

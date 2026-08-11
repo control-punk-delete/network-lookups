@@ -4,10 +4,11 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderTencent(BaseProvider):
-    name = "Tencent"
+class ProviderScanitexLinodeAkamai(BaseProvider):
+    name = "Linode Akamai"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/tencent-cloud/download/txt"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/linode/download/txt"
 
 
 

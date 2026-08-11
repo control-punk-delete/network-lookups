@@ -4,10 +4,11 @@ from providers.models import NetworkPrefix, ProviderResults
 from ipaddress import ip_network
 
 
-class ProviderDigitalOcean(BaseProvider):
-    name = "Digital Ocean"
+class ProviderScanitexIBMCloud(BaseProvider):
+    name = "IBM Cloud"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/digitalocean/download/txt"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/ibm-cloud/download/txt"
 
 
 
@@ -29,3 +30,5 @@ class ProviderDigitalOcean(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
+
+    

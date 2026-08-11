@@ -3,10 +3,14 @@ from providers.models import NetworkPrefix, ProviderResults
 
 from ipaddress import ip_network
 
-class ProviderAzure(BaseProvider):
-    name = "Azure"
+
+class ProviderScanitexAmazon(BaseProvider):
+    name = "Amazon AWS"
     category = "cloud"
-    url = "https://scanitex.com/en/resources/asn-database/microsoft-azure/download/txt"
+    source = "scanitex"
+    url = "https://scanitex.com/en/resources/asn-database/amazon-aws/download/txt"
+
+
 
     async def fetch(self) -> ProviderResults:
 
@@ -26,3 +30,5 @@ class ProviderAzure(BaseProvider):
             self.results.add_item(NetworkPrefix(ip_network(cidr)))
 
         return self.results
+
+    

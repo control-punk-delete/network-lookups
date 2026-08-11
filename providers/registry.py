@@ -2,53 +2,89 @@
 import httpx
 
 from providers.cdn import (
-    ProviderAkamai,
-    ProviderCloudflare,
-    ProviderCdn77,
-    ProviderFastly,
-    ProviderStackpath
+
+    ProviderCloudIPRangesAkamai,
+    ProviderCloudIPRangesBunny,
+    ProviderCloudIPRangesCachefly,
+    ProviderCloudIPRangesCloudflare,
+    ProviderCloudIPRangesFastly,
+    ProviderCloudIPRangesGCore,
+    ProviderCloudIPRangesQuicCloud,
+
+
+    ProviderScanitexAkamai,
+    ProviderScanitexCdn77,
+    ProviderScanitexCloudflare,
+    ProviderScanitexFastly,
+    ProviderScanitexStackpath
 )
 
 from providers.cloud import (
-    ProviderAlibaba,
-    ProviderAmazonLeo,
-    ProviderAmazon,
-    ProviderAzure,
-    ProviderDigitalOcean,
-    ProviderGoogle,
-    ProviderIBMCloud,
-    ProviderLinodeAkamai,
-    ProviderOracle,
-    ProviderTencent,
-    ProviderVultr
+    ProviderScanitexAlibaba,
+    ProviderScanitexAmazon,
+    ProviderScanitexAmazonLeo,
+    ProviderScanitexAzure,
+    ProviderScanitexDigitalOcean,
+    ProviderScanitexGoogle,
+    ProviderScanitexIBMCloud,
+    ProviderScanitexLinodeAkamai,
+    ProviderScanitexOracle,
+    ProviderScanitexTencent,
+    ProviderScanitexVultr
+]
 )
 
 
 from providers.hosting import (
-    ProviderGoDaddy
+    ProviderScanitexBluehost,
+    ProviderScanitexContabo,
+    ProviderScanitexGoDaddy,
+    ProviderScanitexHetzner,
+    ProviderScanitexHostinger,
+    ProviderScanitexIONOS,
+    ProviderScanitexNamecheap,
+    ProviderScanitexOVH,
+    ProviderScanitexScaleway
 )
 
 def load_providers(session: httpx.AsyncClient,):
 
     return (
         # cdn
-             ProviderAkamai(session),
-             ProviderCloudflare(session),
-             ProviderCdn77(session),
-             ProviderFastly(session),
-             ProviderStackpath(session),
+            ProviderCloudIPRangesAkamai(session),
+            ProviderCloudIPRangesBunny(session),
+            ProviderCloudIPRangesCachefly(session),
+            ProviderCloudIPRangesCloudflare(session),
+            ProviderCloudIPRangesFastly(session),
+            ProviderCloudIPRangesGCore(session),
+            ProviderCloudIPRangesQuicCloud(session),
+
+            ProviderScanitexAkamai(session),
+            ProviderScanitexCdn77(session),
+            ProviderScanitexCloudflare(session),
+            ProviderScanitexFastly(session),
+            ProviderScanitexStackpath(session),
+
         # cloud
-            ProviderAlibaba(session),
-            ProviderAmazonLeo(session),
-            ProviderAmazon(session),
-            ProviderAzure(session),
-            ProviderDigitalOcean(session),
-            ProviderGoogle(session),
-            ProviderIBMCloud(session),
-            ProviderLinodeAkamai(session),
-            ProviderOracle(session),
-            ProviderTencent(session),
-            ProviderVultr(session),
+            ProviderScanitexAlibaba(session),
+            ProviderScanitexAmazon(session),
+            ProviderScanitexAmazonLeo(session),
+            ProviderScanitexAzure(session),
+            ProviderScanitexDigitalOcean(session),
+            ProviderScanitexGoogle(session),
+            ProviderScanitexIBMCloud(session),
+            ProviderScanitexLinodeAkamai(session),
+            ProviderScanitexOracle(session),
+            ProviderScanitexTencent(session),
+            ProviderScanitexVultr(session),
         # hosting
-            ProviderGoDaddy(session)
+            ProviderScanitexBluehost(session),
+            ProviderScanitexContabo(session),
+            ProviderScanitexGoDaddy(session),
+            ProviderScanitexHetzner(session),
+            ProviderScanitexHostinger(session),
+            ProviderScanitexIONOS(session),
+            ProviderScanitexNamecheap(session),
+            ProviderScanitexOVH(session),
+            ProviderScanitexScaleway(session)
         )

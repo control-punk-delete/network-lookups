@@ -1,26 +1,27 @@
-from .alibaba import ProviderAlibaba
-from .amazon_leo import ProviderAmazonLeo
-from .amazon import ProviderAmazon
-from .azure import ProviderAzure
-from .digitalocean import ProviderDigitalOcean
-from .google import ProviderGoogle
-from .ibmcloud import ProviderIBMCloud
-from .linkhole_akamai import ProviderLinodeAkamai
-from .oracle import ProviderOracle
-from .tencent import ProviderTencent
-from .vulrt import ProviderVultr
+from .scanitex_alibaba import ProviderScanitexAlibaba
+from .scanitex_amazon import ProviderScanitexAmazon
+from .scanitex_amazon_leo import ProviderScanitexAmazonLeo
+from .scanitex_azure import ProviderScanitexAzure
+from .scanitex_digitalocean import ProviderScanitexDigitalOcean
+from .scanitex_google import ProviderScanitexGoogle
+from .scanitex_ibmcloud import ProviderScanitexIBMCloud
+from .scanitex_linkhole_akamai import ProviderScanitexLinodeAkamai
+from .scanitex_oracle import ProviderScanitexOracle
+from .scanitex_tencent import ProviderScanitexTencent
+from .scanitex_vulrt import ProviderScanitexVultr
+
 
 
 __all__ = [
-    "ProviderAlibaba",
-    "ProviderAmazonLeo",
-    "ProviderAmazon",
-    "ProviderAzure",
-    "ProviderDigitalOcean",
-    "ProviderGoogle",
-    "ProviderIBMCloud",
-    "ProviderLinodeAkamai",
-    "ProviderOracle",
-    "ProviderTencent",
-    "ProviderVultr"
+    "ProviderScanitexAlibaba",
+    "ProviderScanitexAmazon",
+    "ProviderScanitexAmazonLeo",
+    "ProviderScanitexAzure",
+    "ProviderScanitexDigitalOcean",
+    "ProviderScanitexGoogle",
+    "ProviderScanitexIBMCloud",
+    "ProviderScanitexLinodeAkamai",
+    "ProviderScanitexOracle",
+    "ProviderScanitexTencent",
+    "ProviderScanitexVultr"
 ]
