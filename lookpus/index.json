@@ -63774,6 +63774,18 @@
     "version": 4
   },
   {
+    "cidr": "57.128.232.77/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "57.128.232.80/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "64.176.96.248/32",
     "provider": "Bunny",
     "category": "cdn",
@@ -68935,6 +68947,18 @@
   },
   {
     "cidr": "2001:41d0:605:ca00::1175:1/128",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2001:41d0:60c:4d00::/128",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2001:41d0:60c:5000::/128",
     "provider": "Bunny",
     "category": "cdn",
     "version": 6
