@@ -114,7 +114,7 @@ def load_providers(session: httpx.AsyncClient,):
             ProviderScanitexIONOS(session),
             ProviderScanitexNamecheap(session),
             ProviderScanitexOVH(session),
-            ProviderScanitexScaleway(session)
+            ProviderScanitexScaleway(session),
 
             ProviderCloudIPRangesAlibaba(session),
             ProviderCloudIPRangesAWS(session),
@@ -137,7 +137,7 @@ def load_providers(session: httpx.AsyncClient,):
             ProviderCloudIPRangesTencent(session),
             ProviderCloudIPRangesUpcloud(session),
             ProviderCloudIPRangesVultr(session),
-            ProviderCloudIPRangesYandex(session)
+            ProviderCloudIPRangesYandex(session),
 
         # tor
             ProviderCloudIPRangesTor(session)
