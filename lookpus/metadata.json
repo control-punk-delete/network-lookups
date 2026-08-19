@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-19T08:39:10.426720+00:00",
-  "providers": 54,
-  "categories": 3,
-  "prefixes": 157027,
+  "generated": "2026-08-19T08:53:26.805722+00:00",
+  "providers": 55,
+  "categories": 4,
+  "prefixes": 158997,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -275,6 +275,11 @@
       "provider": "Yandex",
       "category": "hosting",
       "prefixes": 149
+    },
+    {
+      "provider": "TOR",
+      "category": "tor",
+      "prefixes": 1970
     }
   ]
 }
