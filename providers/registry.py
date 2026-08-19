@@ -43,7 +43,36 @@ from providers.hosting import (
     ProviderScanitexIONOS,
     ProviderScanitexNamecheap,
     ProviderScanitexOVH,
-    ProviderScanitexScaleway
+    ProviderScanitexScaleway,
+
+    ProviderCloudIPRangesAlibaba,
+    ProviderCloudIPRangesAWS,
+    ProviderCloudIPRangesAzure,
+    ProviderCloudIPRangesBaidu,
+    ProviderCloudIPRangesDigitalOcean,
+    ProviderCloudIPRangesGabia,
+    ProviderCloudIPRangesGoogleCloud,
+    ProviderCloudIPRangesHetzner,
+    ProviderCloudIPRangesHostway,
+    ProviderCloudIPRangesHuaweiCloud,
+    ProviderCloudIPRangesIBMCLOUD,
+    ProviderCloudIPRangesLeaseweb,
+    ProviderCloudIPRangesLinode,
+    ProviderCloudIPRangesNHNCloud,
+    ProviderCloudIPRangesOracleCloud,
+    ProviderCloudIPRangesOvhCloud,
+    ProviderCloudIPRangesRackspace,
+    ProviderCloudIPRangesScaleway,
+    ProviderCloudIPRangesTencent,
+    ProviderCloudIPRangesUpcloud,
+    ProviderCloudIPRangesVultr,
+    ProviderCloudIPRangesYandex
+
+)
+
+
+from providers.tor import (
+    ProviderCloudIPRangesTor
 )
 
 def load_providers(session: httpx.AsyncClient,):
@@ -86,4 +115,30 @@ def load_providers(session: httpx.AsyncClient,):
             ProviderScanitexNamecheap(session),
             ProviderScanitexOVH(session),
             ProviderScanitexScaleway(session)
+
+            ProviderCloudIPRangesAlibaba(session),
+            ProviderCloudIPRangesAWS(session),
+            ProviderCloudIPRangesAzure(session),
+            ProviderCloudIPRangesBaidu(session),
+            ProviderCloudIPRangesDigitalOcean(session),
+            ProviderCloudIPRangesGabia(session),
+            ProviderCloudIPRangesGoogleCloud(session),
+            ProviderCloudIPRangesHetzner(session),
+            ProviderCloudIPRangesHostway(session),
+            ProviderCloudIPRangesHuaweiCloud(session),
+            ProviderCloudIPRangesIBMCLOUD(session),
+            ProviderCloudIPRangesLeaseweb(session),
+            ProviderCloudIPRangesLinode(session),
+            ProviderCloudIPRangesNHNCloud(session),
+            ProviderCloudIPRangesOracleCloud(session),
+            ProviderCloudIPRangesOvhCloud(session),
+            ProviderCloudIPRangesRackspace(session),
+            ProviderCloudIPRangesScaleway(session),
+            ProviderCloudIPRangesTencent(session),
+            ProviderCloudIPRangesUpcloud(session),
+            ProviderCloudIPRangesVultr(session),
+            ProviderCloudIPRangesYandex(session)
+
+        # tor
+            ProviderCloudIPRangesTor(session)
         )
