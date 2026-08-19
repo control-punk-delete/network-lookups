@@ -1,5 +1,6 @@
 import asyncio
 import httpx
+import sys
 
 from providers import load_providers
 from exporters import ExporterMeta, ExporterIndex, ExporterProvider
@@ -10,7 +11,7 @@ ExporterProvider = ExporterProvider()
 
 async def main():
 
-    async with httpx.AsyncClient(timeout=300, follow_redirects=True) as session:
+    async with httpx.AsyncClient(timeout=30, follow_redirects=True) as session:
 
         providers = load_providers(session)
 
