@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-19T01:26:37.042938+00:00",
-  "providers": 32,
+  "generated": "2026-08-19T08:39:10.426720+00:00",
+  "providers": 54,
   "categories": 3,
-  "prefixes": 59917,
+  "prefixes": 157027,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -165,6 +165,116 @@
       "provider": "Scaleway",
       "category": "hosting",
       "prefixes": 29
+    },
+    {
+      "provider": "Alibaba",
+      "category": "hosting",
+      "prefixes": 1712
+    },
+    {
+      "provider": "AWS",
+      "category": "hosting",
+      "prefixes": 12394
+    },
+    {
+      "provider": "Azure",
+      "category": "hosting",
+      "prefixes": 64379
+    },
+    {
+      "provider": "Baidu",
+      "category": "hosting",
+      "prefixes": 191
+    },
+    {
+      "provider": "DigitalOcean",
+      "category": "hosting",
+      "prefixes": 1228
+    },
+    {
+      "provider": "Gabia",
+      "category": "hosting",
+      "prefixes": 98
+    },
+    {
+      "provider": "Google Cloud",
+      "category": "hosting",
+      "prefixes": 1097
+    },
+    {
+      "provider": "Hetzner",
+      "category": "hosting",
+      "prefixes": 93
+    },
+    {
+      "provider": "Hostway",
+      "category": "hosting",
+      "prefixes": 174
+    },
+    {
+      "provider": "Huawei Cloud",
+      "category": "hosting",
+      "prefixes": 660
+    },
+    {
+      "provider": "IBM Cloud",
+      "category": "hosting",
+      "prefixes": 709
+    },
+    {
+      "provider": "Leaseweb",
+      "category": "hosting",
+      "prefixes": 2066
+    },
+    {
+      "provider": "Linode",
+      "category": "hosting",
+      "prefixes": 5534
+    },
+    {
+      "provider": "NHN Cloud",
+      "category": "hosting",
+      "prefixes": 373
+    },
+    {
+      "provider": "Oracle Cloud",
+      "category": "hosting",
+      "prefixes": 1111
+    },
+    {
+      "provider": "Ovh Cloud",
+      "category": "hosting",
+      "prefixes": 742
+    },
+    {
+      "provider": "Rackspace",
+      "category": "hosting",
+      "prefixes": 325
+    },
+    {
+      "provider": "Scaleway",
+      "category": "hosting",
+      "prefixes": 61
+    },
+    {
+      "provider": "Tencent",
+      "category": "hosting",
+      "prefixes": 3395
+    },
+    {
+      "provider": "UpCloud",
+      "category": "hosting",
+      "prefixes": 107
+    },
+    {
+      "provider": "Vultr",
+      "category": "hosting",
+      "prefixes": 512
+    },
+    {
+      "provider": "Yandex",
+      "category": "hosting",
+      "prefixes": 149
     }
   ]
 }
