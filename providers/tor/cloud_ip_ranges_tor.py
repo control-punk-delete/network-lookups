@@ -8,7 +8,7 @@ class ProviderCloudIPRangesTor(BaseProvider):
     category = "tor"
     source = "cloud-ip-ranges"
 
-    url = "hhttps://cloud-ip-ranges.com/download/tor.txt"
+    url = "https://cloud-ip-ranges.com/download/tor.txt"
 
 
     async def fetch(self) -> ProviderResults:
