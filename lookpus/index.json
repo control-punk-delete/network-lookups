@@ -386160,6 +386160,12 @@
     "version": 4
   },
   {
+    "cidr": "16.66.4.0/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "16.67.0.0/32",
     "provider": "AWS",
     "category": "hosting",
@@ -393031,6 +393037,12 @@
   },
   {
     "cidr": "40.39.0.0/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "40.39.44.0/32",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -404310,6 +404322,12 @@
     "version": 4
   },
   {
+    "cidr": "54.54.48.0/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "54.55.0.0/32",
     "provider": "AWS",
     "category": "hosting",
@@ -412266,6 +412284,18 @@
     "version": 4
   },
   {
+    "cidr": "100.29.192.216/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "100.29.192.220/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "100.48.0.0/32",
     "provider": "AWS",
     "category": "hosting",
@@ -412657,6 +412687,18 @@
   },
   {
     "cidr": "104.255.56.70/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "104.255.56.71/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "104.255.56.72/32",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -425364,6 +425406,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f12:ece:5300::/128",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f12:fa9:5100::/128",
     "provider": "AWS",
     "category": "hosting",
@@ -425509,6 +425557,12 @@
   },
   {
     "cidr": "2600:1f15:46b:6e00::/128",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f15:563:5d00::/128",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
