@@ -393540,6 +393540,12 @@
     "version": 4
   },
   {
+    "cidr": "43.196.172.0/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "43.198.0.0/32",
     "provider": "AWS",
     "category": "hosting",
@@ -419713,6 +419719,12 @@
   },
   {
     "cidr": "2400:7fc0:8000::/128",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2400:7fc0:833b:f400::/128",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
