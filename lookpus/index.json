@@ -70542,6 +70542,12 @@
     "version": 6
   },
   {
+    "cidr": "2602:ffe4:c06:40a5::2/128",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2602:ffe4:c09:106::1154/128",
     "provider": "Bunny",
     "category": "cdn",
