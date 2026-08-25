@@ -407454,6 +407454,12 @@
     "version": 4
   },
   {
+    "cidr": "64.37.64.0/32",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "64.66.128.0/32",
     "provider": "AWS",
     "category": "hosting",
