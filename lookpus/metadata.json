@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-25T01:34:13.084063+00:00",
+  "generated": "2026-08-26T01:42:22.127871+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 159017,
+  "prefixes": 159067,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -174,12 +174,12 @@
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 12413
+      "prefixes": 12415
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 64379
+      "prefixes": 64422
     },
     {
       "provider": "Baidu",
@@ -239,7 +239,7 @@
     {
       "provider": "Oracle Cloud",
       "category": "hosting",
-      "prefixes": 1111
+      "prefixes": 1116
     },
     {
       "provider": "Ovh Cloud",
