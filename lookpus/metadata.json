@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-27T08:31:37.105124+00:00",
+  "generated": "2026-08-28T10:32:35.980379+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 159071,
+  "prefixes": 159078,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -174,7 +174,7 @@
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 12419
+      "prefixes": 12420
     },
     {
       "provider": "Azure",
@@ -199,7 +199,7 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1097
+      "prefixes": 1103
     },
     {
       "provider": "Hetzner",

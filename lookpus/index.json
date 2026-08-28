@@ -427146,6 +427146,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f6a:4c00::/128",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f70:800::/128",
     "provider": "AWS",
     "category": "hosting",
@@ -843444,6 +843450,24 @@
     "version": 4
   },
   {
+    "cidr": "34.183.125.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "34.183.128.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "34.183.129.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "34.184.0.0/32",
     "provider": "Google Cloud",
     "category": "hosting",
@@ -843817,6 +843841,24 @@
   },
   {
     "cidr": "34.184.123.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "34.184.126.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "34.184.127.0/32",
+    "provider": "Google Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "34.184.128.0/32",
     "provider": "Google Cloud",
     "category": "hosting",
     "version": 4
