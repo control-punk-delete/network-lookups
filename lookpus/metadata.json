@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-08-31T04:47:30.668578+00:00",
+  "generated": "2026-09-01T04:28:51.100192+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 159081,
+  "prefixes": 159117,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -174,7 +174,7 @@
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 12423
+      "prefixes": 12459
     },
     {
       "provider": "Azure",
