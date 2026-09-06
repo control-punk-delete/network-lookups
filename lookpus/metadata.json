@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-05T03:51:07.595307+00:00",
+  "generated": "2026-09-06T03:49:32.317581+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 159424,
+  "prefixes": 161067,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10507
+      "prefixes": 10396
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 1330
+      "prefixes": 906
     },
     {
       "provider": "Cachefly",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1836
+      "prefixes": 1820
     },
     {
       "provider": "Quic-cloud",
@@ -169,22 +169,22 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 1712
+      "prefixes": 2371
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 12526
+      "prefixes": 10982
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 64661
+      "prefixes": 68013
     },
     {
       "provider": "Baidu",
       "category": "hosting",
-      "prefixes": 191
+      "prefixes": 192
     },
     {
       "provider": "DigitalOcean",
@@ -199,12 +199,12 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1103
+      "prefixes": 1098
     },
     {
       "provider": "Hetzner",
       "category": "hosting",
-      "prefixes": 93
+      "prefixes": 690
     },
     {
       "provider": "Hostway",
@@ -214,17 +214,17 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 660
+      "prefixes": 671
     },
     {
       "provider": "IBM Cloud",
       "category": "hosting",
-      "prefixes": 709
+      "prefixes": 410
     },
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2066
+      "prefixes": 2097
     },
     {
       "provider": "Linode",
@@ -234,17 +234,17 @@
     {
       "provider": "NHN Cloud",
       "category": "hosting",
-      "prefixes": 373
+      "prefixes": 374
     },
     {
       "provider": "Oracle Cloud",
       "category": "hosting",
-      "prefixes": 1116
+      "prefixes": 1119
     },
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 742
+      "prefixes": 744
     },
     {
       "provider": "Rackspace",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3395
+      "prefixes": 3421
     },
     {
       "provider": "UpCloud",
@@ -269,17 +269,17 @@
     {
       "provider": "Vultr",
       "category": "hosting",
-      "prefixes": 512
+      "prefixes": 499
     },
     {
       "provider": "Yandex",
       "category": "hosting",
-      "prefixes": 149
+      "prefixes": 151
     },
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1970
+      "prefixes": 1340
     }
   ]
 }
