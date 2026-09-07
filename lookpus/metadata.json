@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-06T03:49:32.317581+00:00",
+  "generated": "2026-09-07T03:53:42.811301+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 161067,
+  "prefixes": 161034,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10396
+      "prefixes": 10388
     },
     {
       "provider": "Bunny",
@@ -169,7 +169,7 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2371
+      "prefixes": 2370
     },
     {
       "provider": "AWS",
@@ -199,7 +199,7 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1098
+      "prefixes": 1102
     },
     {
       "provider": "Hetzner",
@@ -229,7 +229,7 @@
     {
       "provider": "Linode",
       "category": "hosting",
-      "prefixes": 5534
+      "prefixes": 5505
     },
     {
       "provider": "NHN Cloud",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 744
+      "prefixes": 745
     },
     {
       "provider": "Rackspace",
