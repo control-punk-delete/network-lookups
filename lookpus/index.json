@@ -19440,12 +19440,6 @@
     "version": 4
   },
   {
-    "cidr": "23.196.60.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.196.64.0/22",
     "provider": "Akamai",
     "category": "cdn",
@@ -19489,12 +19483,6 @@
   },
   {
     "cidr": "23.196.144.0/20",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.196.180.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -19602,12 +19590,6 @@
     "version": 4
   },
   {
-    "cidr": "23.197.0.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.197.4.0/22",
     "provider": "Akamai",
     "category": "cdn",
@@ -19621,12 +19603,6 @@
   },
   {
     "cidr": "23.197.12.0/23",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.197.16.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -19861,12 +19837,6 @@
   },
   {
     "cidr": "23.197.168.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.197.172.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -20353,12 +20323,6 @@
   },
   {
     "cidr": "23.199.208.0/20",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.199.224.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -21048,12 +21012,6 @@
     "version": 4
   },
   {
-    "cidr": "23.201.88.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.201.96.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -21306,12 +21264,6 @@
     "version": 4
   },
   {
-    "cidr": "23.202.52.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.202.60.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -21433,12 +21385,6 @@
   },
   {
     "cidr": "23.202.128.0/20",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.202.144.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -24858,12 +24804,6 @@
     "version": 4
   },
   {
-    "cidr": "23.212.68.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.212.84.0/22",
     "provider": "Akamai",
     "category": "cdn",
@@ -25680,12 +25620,6 @@
     "version": 4
   },
   {
-    "cidr": "23.214.64.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.214.68.0/23",
     "provider": "Akamai",
     "category": "cdn",
@@ -26274,12 +26208,6 @@
     "version": 4
   },
   {
-    "cidr": "23.215.144.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.215.172.0/22",
     "provider": "Akamai",
     "category": "cdn",
@@ -26563,12 +26491,6 @@
   },
   {
     "cidr": "23.216.135.0/24",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.216.136.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -27000,12 +26922,6 @@
     "version": 4
   },
   {
-    "cidr": "23.217.172.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.217.180.0/22",
     "provider": "Akamai",
     "category": "cdn",
@@ -27079,12 +26995,6 @@
   },
   {
     "cidr": "23.218.24.0/21",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.218.36.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -28026,12 +27936,6 @@
     "version": 4
   },
   {
-    "cidr": "23.220.140.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.220.144.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -28249,12 +28153,6 @@
   },
   {
     "cidr": "23.221.0.0/20",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "23.221.16.0/22",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -47220,6 +47118,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1408:7::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2600:1408:a::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -47239,6 +47143,12 @@
   },
   {
     "cidr": "2600:1408:11::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1408:17::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -47299,6 +47209,12 @@
   },
   {
     "cidr": "2600:1408:1c00::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1408:2000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -47370,6 +47286,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1408:8400::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2600:1408:8800::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -47407,6 +47329,12 @@
   },
   {
     "cidr": "2600:1408:a400::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1408:ac00::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -63240,6 +63168,12 @@
     "version": 4
   },
   {
+    "cidr": "87.249.137.50/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "87.249.137.52/32",
     "provider": "Bunny",
     "category": "cdn",
@@ -68119,12 +68053,6 @@
   },
   {
     "cidr": "1.37.77.98/32",
-    "provider": "G-Core",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "2.78.47.38/32",
     "provider": "G-Core",
     "category": "cdn",
     "version": 4
@@ -77353,6 +77281,12 @@
   },
   {
     "cidr": "2a03:90c0:391:2801::6/128",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2a03:90c0:3a1:2801::4/128",
     "provider": "G-Core",
     "category": "cdn",
     "version": 6
@@ -395167,6 +395101,12 @@
   },
   {
     "cidr": "51.24.198.0/23",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "51.24.220.0/23",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -860922,7 +860862,25 @@
     "version": 4
   },
   {
-    "cidr": "5.78.160.0/22",
+    "cidr": "5.78.160.0/24",
+    "provider": "Hetzner",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "5.78.161.0/24",
+    "provider": "Hetzner",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "5.78.162.0/24",
+    "provider": "Hetzner",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "5.78.163.0/24",
     "provider": "Hetzner",
     "category": "hosting",
     "version": 4
@@ -873367,12 +873325,6 @@
   },
   {
     "cidr": "37.58.48.0/20",
-    "provider": "Leaseweb",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.75.152.0/21",
     "provider": "Leaseweb",
     "category": "hosting",
     "version": 4
@@ -926406,6 +926358,12 @@
     "version": 4
   },
   {
+    "cidr": "5.231.255.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "8.7.244.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -928945,6 +928903,12 @@
   },
   {
     "cidr": "143.14.231.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "143.20.60.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -948936,12 +948900,6 @@
     "version": 4
   },
   {
-    "cidr": "150.109.31.0/24",
-    "provider": "Tencent",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "150.109.32.0/19",
     "provider": "Tencent",
     "category": "hosting",
@@ -957258,79 +957216,7 @@
     "version": 6
   },
   {
-    "cidr": "5.45.192.0/18",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.202.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.205.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.214.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.215.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.219.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.241.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.243.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.45.252.0/22",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.255.192.0/18",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.255.197.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.255.205.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "5.255.255.0/24",
+    "cidr": "5.187.84.32/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957342,55 +957228,19 @@
     "version": 4
   },
   {
-    "cidr": "31.44.9.0/24",
+    "cidr": "31.135.225.72/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "37.9.64.0/18",
+    "cidr": "37.17.118.240/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "37.9.64.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.9.75.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.9.86.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.9.87.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.9.98.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.9.112.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "37.140.128.0/18",
+    "cidr": "37.128.241.248/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957408,13 +957258,31 @@
     "version": 4
   },
   {
-    "cidr": "46.21.244.0/22",
+    "cidr": "37.230.188.0/22",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "46.243.209.0/24",
+    "cidr": "45.133.96.0/22",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "45.143.89.64/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "45.157.212.160/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "46.21.244.0/22",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957426,43 +957294,13 @@
     "version": 4
   },
   {
+    "cidr": "46.245.128.32/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "51.250.0.0/17",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.48.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.50.0/23",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.54.0/23",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.112.0/21",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.120.0/22",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "51.250.126.0/24",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957474,37 +957312,7 @@
     "version": 4
   },
   {
-    "cidr": "77.88.0.0/18",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.88.6.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.88.8.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.88.12.0/23",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.88.44.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.88.55.0/24",
+    "cidr": "77.41.157.164/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957516,19 +957324,61 @@
     "version": 4
   },
   {
+    "cidr": "81.211.99.100/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.172.51.192/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.172.51.208/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.172.51.224/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.172.51.240/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.172.52.64/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.234.162.72/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.234.162.88/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.234.162.104/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "84.201.128.0/18",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "84.201.184.0/22",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "84.201.188.0/23",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957540,43 +957390,43 @@
     "version": 4
   },
   {
-    "cidr": "84.252.160.0/19",
+    "cidr": "85.26.163.216/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "84.252.160.0/20",
+    "cidr": "85.26.238.214/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "84.252.160.0/24",
+    "cidr": "85.249.252.76/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "87.250.224.0/19",
+    "cidr": "87.248.243.128/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "87.250.240.0/24",
+    "cidr": "87.248.243.144/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "87.250.247.0/24",
+    "cidr": "89.38.165.176/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "89.104.112.0/23",
+    "cidr": "89.113.99.112/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957588,7 +957438,7 @@
     "version": 4
   },
   {
-    "cidr": "89.223.9.0/24",
+    "cidr": "89.223.6.0/23",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957600,19 +957450,19 @@
     "version": 4
   },
   {
-    "cidr": "89.232.188.0/24",
+    "cidr": "89.232.188.0/22",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "89.232.189.0/24",
+    "cidr": "91.149.176.192/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "91.107.80.0/22",
+    "cidr": "92.119.185.48/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957630,31 +957480,7 @@
     "version": 4
   },
   {
-    "cidr": "92.255.13.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "92.255.15.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "92.255.16.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "92.255.58.0/23",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "92.255.112.0/20",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957666,49 +957492,19 @@
     "version": 4
   },
   {
-    "cidr": "93.77.168.0/22",
+    "cidr": "93.157.160.64/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "93.158.128.0/18",
+    "cidr": "94.41.41.16/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "93.158.144.0/22",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "93.158.171.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "93.158.184.0/21",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "93.158.184.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "93.158.186.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "93.158.187.0/24",
+    "cidr": "94.41.133.48/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957720,13 +957516,7 @@
     "version": 4
   },
   {
-    "cidr": "94.131.190.0/24",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "94.131.191.0/24",
+    "cidr": "94.131.80.0/20",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957738,13 +957528,43 @@
     "version": 4
   },
   {
-    "cidr": "95.108.128.0/17",
+    "cidr": "94.247.111.208/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "95.167.77.24/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "95.167.131.248/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "95.167.135.8/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "95.167.135.24/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
     "cidr": "103.76.52.0/22",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "109.200.119.104/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957768,13 +957588,25 @@
     "version": 4
   },
   {
-    "cidr": "130.193.62.0/24",
+    "cidr": "146.158.117.104/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "141.8.128.0/18",
+    "cidr": "146.185.212.64/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "146.185.212.128/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "153.51.32.0/19",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957786,73 +957618,97 @@
     "version": 4
   },
   {
-    "cidr": "153.51.96.0/23",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "158.160.0.0/16",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.128.0/19",
+    "cidr": "176.59.94.112/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.131.0/24",
+    "cidr": "176.59.126.240/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.160.0/19",
+    "cidr": "176.59.158.128/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.192.0/19",
+    "cidr": "176.59.223.240/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.224.0/19",
+    "cidr": "178.19.241.152/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.243.0/24",
+    "cidr": "178.34.88.200/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.244.0/24",
+    "cidr": "178.154.192.0/18",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "178.154.245.0/24",
+    "cidr": "178.170.222.0/24",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "185.32.184.0/23",
+    "cidr": "178.176.143.66/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "185.32.187.0/24",
+    "cidr": "178.176.151.222/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "178.176.191.78/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "178.185.206.168/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "178.185.206.184/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.11.76.160/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.154.74.192/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957864,13 +957720,73 @@
     "version": 4
   },
   {
+    "cidr": "185.205.130.40/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.205.130.56/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.205.130.72/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.205.130.232/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.205.130.248/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "185.206.164.0/22",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
+    "cidr": "185.211.231.0/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "185.216.194.0/23",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "185.221.46.128/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.43.54.136/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.43.55.184/29",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.43.58.40/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957894,25 +957810,67 @@
     "version": 4
   },
   {
-    "cidr": "188.72.110.0/24",
+    "cidr": "188.72.105.0/27",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "188.72.111.0/24",
+    "cidr": "188.72.110.0/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "188.72.112.0/24",
+    "cidr": "188.72.110.16/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "188.72.113.0/24",
+    "cidr": "188.72.110.32/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.110.48/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.111.0/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.111.16/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.111.32/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.111.48/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.72.113.0/27",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "188.190.99.16/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957924,19 +957882,133 @@
     "version": 4
   },
   {
-    "cidr": "193.32.216.0/24",
+    "cidr": "194.158.197.176/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "194.247.51.0/24",
+    "cidr": "194.186.130.20/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "201.50.118.0/24",
+    "cidr": "194.186.177.68/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.3.244.16/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.16.37.146/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.46.167.172/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.218.143.90/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.239.83.64/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.239.101.206/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.239.105.200/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.239.179.56/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "195.239.193.160/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.44.128.188/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.46.212.192/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.49.97.0/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.119.207.200/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.192.230.48/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.192.232.48/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.192.234.16/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "212.192.236.0/28",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "213.33.132.240/31",
+    "provider": "Yandex",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "213.33.150.46/31",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957954,25 +958026,7 @@
     "version": 4
   },
   {
-    "cidr": "213.165.196.0/22",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "213.165.200.0/21",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "213.180.192.0/19",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "213.180.199.0/24",
+    "cidr": "217.13.209.0/28",
     "provider": "Yandex",
     "category": "hosting",
     "version": 4
@@ -957990,175 +958044,13 @@
     "version": 4
   },
   {
-    "cidr": "2a02:6b8::/29",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
     "cidr": "2a02:6b8::/32",
     "provider": "Yandex",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2a02:6b8:4::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:5::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:6::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:8::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:a::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:b::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:c::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:d::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:e::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:20::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:21::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:22::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:23::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6b8:215::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:8000::/34",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:8000::/35",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:8005::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:8006::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:a000::/35",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:a005::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:6bf:a008::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0b:1440::/32",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0b:1447:20::/44",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0d:d6c0::/32",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0d:d6c1::/32",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0d:d6c7:14::/48",
-    "provider": "Yandex",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0d:d6c7:15::/48",
+    "cidr": "2a0d:d6c0::/29",
     "provider": "Yandex",
     "category": "hosting",
     "version": 6
@@ -960060,6 +959952,12 @@
     "version": 4
   },
   {
+    "cidr": "45.32.108.163/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "45.38.20.213/32",
     "provider": "TOR",
     "category": "tor",
@@ -961284,6 +961182,12 @@
     "version": 4
   },
   {
+    "cidr": "95.179.255.150/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "95.211.239.220/32",
     "provider": "TOR",
     "category": "tor",
@@ -962293,6 +962197,12 @@
   },
   {
     "cidr": "149.202.79.129/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "149.248.4.11/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -964428,6 +964338,12 @@
     "version": 4
   },
   {
+    "cidr": "186.240.149.160/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "188.68.41.191/32",
     "provider": "TOR",
     "category": "tor",
@@ -965244,19 +965160,13 @@
     "version": 4
   },
   {
+    "cidr": "198.167.206.152/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "198.167.206.179/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "198.167.206.201/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "198.167.206.224/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
