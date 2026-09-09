@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-08T03:58:03.140916+00:00",
+  "generated": "2026-09-09T04:00:57.056645+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 161019,
+  "prefixes": 153832,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10376
+      "prefixes": 10378
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 907
+      "prefixes": 908
     },
     {
       "provider": "Cachefly",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1820
+      "prefixes": 1835
     },
     {
       "provider": "Quic-cloud",
@@ -169,17 +169,17 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2370
+      "prefixes": 2371
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 10983
+      "prefixes": 10986
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 68013
+      "prefixes": 60805
     },
     {
       "provider": "Baidu",
@@ -274,12 +274,12 @@
     {
       "provider": "Yandex",
       "category": "hosting",
-      "prefixes": 140
+      "prefixes": 141
     },
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1343
+      "prefixes": 1341
     }
   ]
 }
