@@ -1482,6 +1482,12 @@
     "version": 4
   },
   {
+    "cidr": "2.17.244.0/22",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "2.17.250.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -1783,6 +1789,12 @@
   },
   {
     "cidr": "2.18.93.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "2.18.94.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -5148,6 +5160,12 @@
     "version": 4
   },
   {
+    "cidr": "23.2.15.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "23.2.16.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -5167,6 +5185,12 @@
   },
   {
     "cidr": "23.2.19.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "23.2.20.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -7243,6 +7267,12 @@
   },
   {
     "cidr": "23.33.141.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "23.33.142.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -9883,6 +9913,12 @@
   },
   {
     "cidr": "23.43.121.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "23.43.123.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -30894,12 +30930,6 @@
     "version": 4
   },
   {
-    "cidr": "92.122.123.0/24",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "92.122.124.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -32083,6 +32113,12 @@
   },
   {
     "cidr": "95.101.75.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "95.101.76.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -42012,6 +42048,12 @@
     "version": 4
   },
   {
+    "cidr": "184.28.144.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "184.28.145.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -47154,12 +47196,6 @@
     "version": 6
   },
   {
-    "cidr": "2600:1408:7::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
     "cidr": "2600:1408:a::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -47305,6 +47341,12 @@
   },
   {
     "cidr": "2600:1408:8000::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1408:8400::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -48534,12 +48576,6 @@
     "version": 6
   },
   {
-    "cidr": "2600:1416:1002::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
     "cidr": "2600:1416:3000::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -49657,6 +49693,12 @@
   },
   {
     "cidr": "2600:1480:5802::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1480:5804::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -359262,6 +359304,24 @@
     "version": 4
   },
   {
+    "cidr": "43.93.0.0/17",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.93.0.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.93.64.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "43.96.0.0/24",
     "provider": "Alibaba",
     "category": "hosting",
@@ -364705,6 +364765,24 @@
   },
   {
     "cidr": "47.246.209.0/24",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "47.246.212.0/22",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "47.246.212.0/23",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "47.246.214.0/23",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -370591,12 +370669,6 @@
   },
   {
     "cidr": "1.178.72.0/21",
-    "provider": "AWS",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "1.178.86.0/24",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -394752,6 +394824,12 @@
     "version": 4
   },
   {
+    "cidr": "45.33.188.0/24",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "45.34.0.0/15",
     "provider": "AWS",
     "category": "hosting",
@@ -408246,6 +408324,18 @@
     "version": 4
   },
   {
+    "cidr": "69.107.13.64/29",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "69.107.13.72/29",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "69.230.192.0/18",
     "provider": "AWS",
     "category": "hosting",
@@ -408703,6 +408793,12 @@
   },
   {
     "cidr": "77.112.112.0/22",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "77.112.162.0/23",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -419610,6 +419706,126 @@
     "version": 6
   },
   {
+    "cidr": "2406:da62:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:2800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:7000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:8800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:9000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:a000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:b000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:c800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da62:f000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da6a:3000::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da6a:5000::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:da6a:d000::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2406:da70:800::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -420325,6 +420541,108 @@
   },
   {
     "cidr": "2406:dabb:f000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:2800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:7000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:8800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:9000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:a000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:b000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:c800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2406:dae7:f000::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -422670,6 +422988,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f01:494c::/47",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f10:2000::/36",
     "provider": "AWS",
     "category": "hosting",
@@ -423390,6 +423714,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f20:2000::/36",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f20:8000::/36",
     "provider": "AWS",
     "category": "hosting",
@@ -423409,6 +423739,12 @@
   },
   {
     "cidr": "2600:1f21:8::/48",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f21:2000::/36",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -423439,6 +423775,12 @@
   },
   {
     "cidr": "2600:1f22:28::/48",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f22:2000::/36",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -423618,6 +423960,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f2a:2000::/36",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f2a:4000::/36",
     "provider": "AWS",
     "category": "hosting",
@@ -423666,6 +424014,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f2c:2000::/36",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f2c:4000::/36",
     "provider": "AWS",
     "category": "hosting",
@@ -423709,6 +424063,12 @@
   },
   {
     "cidr": "2600:1f2e:14::/48",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f2e:2000::/36",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -423810,7 +424170,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f30:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f30:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f30:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -423882,7 +424254,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f32:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f32:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f32:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -423954,7 +424338,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f33:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f33:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f33:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424026,7 +424422,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f36:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f36:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f36:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424098,7 +424506,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f38:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f38:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f38:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424182,6 +424602,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f60:e200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f60:ec00::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -424248,13 +424674,325 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f61:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f61:e000::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
   },
   {
+    "cidr": "2600:1f61:e200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f61:ec00::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:4000::/39",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:5000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:7400::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:8000::/39",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:a400::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:e200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f62:ec00::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:200::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:1200::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:1400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:1800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:1c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:2200::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:2800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:3800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:3c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:4800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:5400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:5800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:5c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:6800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:6c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:7800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:7c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:8800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:8c00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:9400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:9800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:a200::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:a800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:ac00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:b400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:b800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:bc00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:c800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:cc00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:d400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:d800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:dc00::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:e800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:f400::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:f800::/46",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f6a:fc00::/46",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424446,6 +425184,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f70:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f70:e000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -424471,6 +425215,12 @@
   },
   {
     "cidr": "2600:1f70:e000:400::/56",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f70:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424548,7 +425298,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fa0:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fa0:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fa0:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424620,7 +425382,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fb9:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fb9:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fb9:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424692,7 +425466,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fba:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fba:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fba:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424764,7 +425550,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fbb:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fbb:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fbb:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424783,6 +425581,90 @@
   },
   {
     "cidr": "2600:1fe2:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:4000::/39",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:5000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:7400::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:8000::/39",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:a400::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:e200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe7:ec00::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424848,7 +425730,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fe8:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fe8:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe8:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424920,7 +425814,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fe9:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fe9:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fe9:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -424992,7 +425898,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fea:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fea:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fea:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425064,7 +425982,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1feb:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1feb:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1feb:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425136,7 +426066,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1fef:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1fef:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fef:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425220,6 +426162,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff0:e200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff0:ec00::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -425286,7 +426234,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff2:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff2:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff2:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425358,7 +426318,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff3:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff3:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff3:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425430,7 +426402,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff4:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff4:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff4:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425526,7 +426510,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff6:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff6:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff6:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425604,7 +426600,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff8:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff8:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff8:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -425682,7 +426690,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ff9:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ff9:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ff9:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -426084,7 +427104,19 @@
     "version": 6
   },
   {
+    "cidr": "2600:1ffe:c200::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1ffe:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1ffe:e200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -426163,6 +427195,12 @@
   },
   {
     "cidr": "2600:1fff:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1fff:c200::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -433710,6 +434748,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d014:8000::/36",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d015::/36",
     "provider": "AWS",
     "category": "hosting",
@@ -434130,6 +435174,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d030:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d030:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434208,6 +435258,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d031:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d031:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434221,6 +435277,12 @@
   },
   {
     "cidr": "2a05:d031:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d031:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434280,6 +435342,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d032:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d032:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434293,6 +435361,12 @@
   },
   {
     "cidr": "2a05:d032:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d032:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434352,6 +435426,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d033:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d033:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434365,6 +435445,12 @@
   },
   {
     "cidr": "2a05:d033:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d033:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434424,6 +435510,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d036:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d036:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434437,6 +435529,12 @@
   },
   {
     "cidr": "2a05:d036:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d036:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434496,6 +435594,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d038:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d038:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434509,6 +435613,12 @@
   },
   {
     "cidr": "2a05:d038:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d038:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434539,6 +435649,90 @@
   },
   {
     "cidr": "2a05:d038:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:5000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:8800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:9000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:a000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:b000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d039:e000::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434628,6 +435822,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d03a:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d03a:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434695,6 +435895,12 @@
   },
   {
     "cidr": "2a05:d03a:8000:400::/56",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d03a:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434832,6 +436038,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d040:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d040:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434845,6 +436057,12 @@
   },
   {
     "cidr": "2a05:d040:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d040:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434904,6 +436122,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d050:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d050:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434917,6 +436141,12 @@
   },
   {
     "cidr": "2a05:d050:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d050:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -434982,6 +436212,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d059:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d059:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -434995,6 +436231,12 @@
   },
   {
     "cidr": "2a05:d059:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d059:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435054,6 +436296,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d05a:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d05a:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435067,6 +436315,12 @@
   },
   {
     "cidr": "2a05:d05a:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d05a:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435126,6 +436380,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d05b:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d05b:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435139,6 +436399,12 @@
   },
   {
     "cidr": "2a05:d05b:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d05b:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435198,6 +436464,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d068:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d068:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435211,6 +436483,12 @@
   },
   {
     "cidr": "2a05:d068:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d068:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435246,6 +436524,90 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d069:800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:1000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:2000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:5000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:6000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:8800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:9000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:a000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:b000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:c000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d069:e000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d06a:800::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435270,6 +436632,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d06a:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d06a:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435283,6 +436651,12 @@
   },
   {
     "cidr": "2a05:d06a:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d06a:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435342,6 +436716,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d06b:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d06b:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435355,6 +436735,12 @@
   },
   {
     "cidr": "2a05:d06b:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d06b:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435414,6 +436800,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d06f:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d06f:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435427,6 +436819,12 @@
   },
   {
     "cidr": "2a05:d06f:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d06f:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435481,6 +436879,12 @@
   },
   {
     "cidr": "2a05:d070:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d070:4800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435564,6 +436968,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d072:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d072:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435577,6 +436987,12 @@
   },
   {
     "cidr": "2a05:d072:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d072:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435636,6 +437052,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d073:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d073:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435649,6 +437071,12 @@
   },
   {
     "cidr": "2a05:d073:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d073:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435708,6 +437136,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d074:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d074:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435721,6 +437155,12 @@
   },
   {
     "cidr": "2a05:d074:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d074:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435792,6 +437232,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d076:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d076:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435811,6 +437257,12 @@
   },
   {
     "cidr": "2a05:d076:8000::/48",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d076:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435876,6 +437328,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d078:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d078:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435889,6 +437347,12 @@
   },
   {
     "cidr": "2a05:d078:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d078:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -435954,6 +437418,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d079:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d079:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -435967,6 +437437,12 @@
   },
   {
     "cidr": "2a05:d079:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d079:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -436134,6 +437610,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d07d:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d07d:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -436147,6 +437629,12 @@
   },
   {
     "cidr": "2a05:d07d:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d07d:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -436206,6 +437694,12 @@
     "version": 6
   },
   {
+    "cidr": "2a05:d07e:4800::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2a05:d07e:5000::/40",
     "provider": "AWS",
     "category": "hosting",
@@ -436219,6 +437713,12 @@
   },
   {
     "cidr": "2a05:d07e:8000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d07e:8800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -436279,6 +437779,12 @@
   },
   {
     "cidr": "2a05:d07f:4000::/40",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a05:d07f:4800::/40",
     "provider": "AWS",
     "category": "hosting",
     "version": 6
@@ -808476,6 +809982,12 @@
     "version": 4
   },
   {
+    "cidr": "201.79.16.0/20",
+    "provider": "DigitalOcean",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "204.48.16.0/20",
     "provider": "DigitalOcean",
     "category": "hosting",
@@ -822210,6 +823722,18 @@
     "version": 4
   },
   {
+    "cidr": "14.137.190.0/24",
+    "provider": "Huawei Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "14.137.191.0/24",
+    "provider": "Huawei Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "27.106.0.0/20",
     "provider": "Huawei Cloud",
     "category": "hosting",
@@ -834210,12 +835734,6 @@
     "version": 4
   },
   {
-    "cidr": "109.70.12.0/22",
-    "provider": "Leaseweb",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "109.70.73.0/24",
     "provider": "Leaseweb",
     "category": "hosting",
@@ -839743,12 +841261,6 @@
   },
   {
     "cidr": "2a0e:15c5:acab::/48",
-    "provider": "Leaseweb",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0e:15c6::/32",
     "provider": "Leaseweb",
     "category": "hosting",
     "version": 6
@@ -883236,6 +884748,12 @@
     "version": 4
   },
   {
+    "cidr": "5.230.153.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "5.231.207.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -884100,6 +885618,12 @@
     "version": 4
   },
   {
+    "cidr": "64.204.11.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "64.225.244.0/23",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -884227,12 +885751,6 @@
   },
   {
     "cidr": "77.81.138.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "77.83.244.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -884886,6 +886404,12 @@
     "version": 4
   },
   {
+    "cidr": "87.83.66.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "87.86.181.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -885024,12 +886548,6 @@
     "version": 4
   },
   {
-    "cidr": "92.118.168.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "92.222.0.0/16",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -885061,30 +886579,6 @@
   },
   {
     "cidr": "94.158.184.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "95.81.72.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "95.81.73.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "95.81.74.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "95.81.75.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -886176,18 +887670,6 @@
     "version": 4
   },
   {
-    "cidr": "160.20.158.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "160.20.159.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "160.236.145.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -886530,12 +888012,6 @@
     "version": 4
   },
   {
-    "cidr": "185.113.138.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "185.113.249.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -886758,6 +888234,12 @@
     "version": 4
   },
   {
+    "cidr": "192.6.107.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "192.30.124.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -886867,12 +888349,6 @@
   },
   {
     "cidr": "193.151.166.0/24",
-    "provider": "Ovh Cloud",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "193.221.202.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -892855,12 +894331,6 @@
   },
   {
     "cidr": "45.40.252.0/22",
-    "provider": "Tencent",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "45.146.112.0/23",
     "provider": "Tencent",
     "category": "hosting",
     "version": 4
@@ -914994,6 +916464,12 @@
     "version": 4
   },
   {
+    "cidr": "5.79.66.19/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "5.104.84.183/32",
     "provider": "TOR",
     "category": "tor",
@@ -916596,12 +918072,6 @@
     "version": 4
   },
   {
-    "cidr": "31.22.91.203/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "31.25.11.143/32",
     "provider": "TOR",
     "category": "tor",
@@ -916807,12 +918277,6 @@
   },
   {
     "cidr": "45.9.168.114/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "45.9.168.117/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -917160,12 +918624,6 @@
     "version": 4
   },
   {
-    "cidr": "45.95.169.138/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "45.128.133.242/32",
     "provider": "TOR",
     "category": "tor",
@@ -917287,6 +918745,12 @@
   },
   {
     "cidr": "46.250.243.29/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "49.213.62.84/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -917718,6 +919182,12 @@
     "version": 4
   },
   {
+    "cidr": "84.212.206.202/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "84.239.46.144/32",
     "provider": "TOR",
     "category": "tor",
@@ -917737,12 +919207,6 @@
   },
   {
     "cidr": "85.93.218.204/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "85.253.177.151/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -918199,6 +919663,12 @@
   },
   {
     "cidr": "103.193.179.213/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "103.255.66.69/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -919080,12 +920550,6 @@
     "version": 4
   },
   {
-    "cidr": "150.40.126.136/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "150.40.127.12/32",
     "provider": "TOR",
     "category": "tor",
@@ -919105,12 +920569,6 @@
   },
   {
     "cidr": "150.40.127.100/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "150.40.127.143/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -919296,6 +920754,12 @@
     "version": 4
   },
   {
+    "cidr": "168.222.75.171/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "171.25.158.50/32",
     "provider": "TOR",
     "category": "tor",
@@ -919446,12 +920910,6 @@
     "version": 4
   },
   {
-    "cidr": "172.86.117.246/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "172.104.182.84/32",
     "provider": "TOR",
     "category": "tor",
@@ -919531,12 +920989,6 @@
   },
   {
     "cidr": "176.118.193.33/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "176.121.81.51/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -919657,12 +921109,6 @@
   },
   {
     "cidr": "182.231.115.136/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "182.231.115.169/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -922014,6 +923460,12 @@
     "version": 4
   },
   {
+    "cidr": "198.98.51.249/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "198.98.60.231/32",
     "provider": "TOR",
     "category": "tor",
@@ -922026,6 +923478,12 @@
     "version": 4
   },
   {
+    "cidr": "198.167.206.131/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "198.167.206.141/32",
     "provider": "TOR",
     "category": "tor",
@@ -922033,12 +923491,6 @@
   },
   {
     "cidr": "198.167.206.152/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "198.167.206.179/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -922897,12 +924349,6 @@
   },
   {
     "cidr": "213.95.55.63/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "213.177.179.105/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
