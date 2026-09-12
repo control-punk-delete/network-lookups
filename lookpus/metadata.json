@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-11T03:56:33.765075+00:00",
+  "generated": "2026-09-12T03:59:27.328297+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154042,
+  "prefixes": 154020,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10361
+      "prefixes": 10360
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 908
+      "prefixes": 907
     },
     {
       "provider": "Cachefly",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1833
+      "prefixes": 1836
     },
     {
       "provider": "Quic-cloud",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2373
+      "prefixes": 2370
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11226
+      "prefixes": 11213
     },
     {
       "provider": "Azure",
@@ -199,7 +199,7 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1102
+      "prefixes": 1103
     },
     {
       "provider": "Hetzner",
@@ -214,17 +214,17 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 673
+      "prefixes": 675
     },
     {
       "provider": "IBM Cloud",
       "category": "hosting",
-      "prefixes": 410
+      "prefixes": 409
     },
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2092
+      "prefixes": 2082
     },
     {
       "provider": "Linode",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3418
+      "prefixes": 3416
     },
     {
       "provider": "UpCloud",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1336
+      "prefixes": 1339
     }
   ]
 }
