@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-12T03:59:27.328297+00:00",
+  "generated": "2026-09-13T04:04:09.502331+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154020,
+  "prefixes": 154009,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10360
+      "prefixes": 10359
     },
     {
       "provider": "Bunny",
@@ -184,7 +184,7 @@
     {
       "provider": "Baidu",
       "category": "hosting",
-      "prefixes": 192
+      "prefixes": 191
     },
     {
       "provider": "DigitalOcean",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2082
+      "prefixes": 2083
     },
     {
       "provider": "Linode",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1339
+      "prefixes": 1329
     }
   ]
 }
