@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-13T04:04:09.502331+00:00",
+  "generated": "2026-09-14T04:16:03.569534+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154009,
+  "prefixes": 153961,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10359
+      "prefixes": 10317
     },
     {
       "provider": "Bunny",
@@ -39,7 +39,7 @@
     {
       "provider": "Quic-cloud",
       "category": "cdn",
-      "prefixes": 153
+      "prefixes": 152
     },
     {
       "provider": "Akamai",
@@ -189,7 +189,7 @@
     {
       "provider": "DigitalOcean",
       "category": "hosting",
-      "prefixes": 1229
+      "prefixes": 1230
     },
     {
       "provider": "Gabia",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1329
+      "prefixes": 1323
     }
   ]
 }
