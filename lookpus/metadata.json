@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-15T04:15:32.965787+00:00",
+  "generated": "2026-09-16T04:10:28.413451+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154043,
+  "prefixes": 155255,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10361
+      "prefixes": 10354
     },
     {
       "provider": "Bunny",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1844
+      "prefixes": 1843
     },
     {
       "provider": "Quic-cloud",
@@ -169,17 +169,17 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2371
+      "prefixes": 2372
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11215
+      "prefixes": 11241
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 60805
+      "prefixes": 62018
     },
     {
       "provider": "Baidu",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2078
+      "prefixes": 2066
     },
     {
       "provider": "Linode",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 745
+      "prefixes": 739
     },
     {
       "provider": "Rackspace",
@@ -254,7 +254,7 @@
     {
       "provider": "Scaleway",
       "category": "hosting",
-      "prefixes": 61
+      "prefixes": 62
     },
     {
       "provider": "Tencent",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1346
+      "prefixes": 1343
     }
   ]
 }
