@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-16T04:10:28.413451+00:00",
+  "generated": "2026-09-17T04:19:06.261232+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 155255,
+  "prefixes": 155264,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10354
+      "prefixes": 10329
     },
     {
       "provider": "Bunny",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2372
+      "prefixes": 2373
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11241
+      "prefixes": 11270
     },
     {
       "provider": "Azure",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 675
+      "prefixes": 673
     },
     {
       "provider": "IBM Cloud",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2066
+      "prefixes": 2065
     },
     {
       "provider": "Linode",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 739
+      "prefixes": 742
     },
     {
       "provider": "Rackspace",
@@ -254,7 +254,7 @@
     {
       "provider": "Scaleway",
       "category": "hosting",
-      "prefixes": 62
+      "prefixes": 63
     },
     {
       "provider": "Tencent",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1343
+      "prefixes": 1346
     }
   ]
 }
