@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-22T04:10:04.669101+00:00",
+  "generated": "2026-09-23T04:08:54.856534+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 155287,
+  "prefixes": 154600,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10281
+      "prefixes": 10326
     },
     {
       "provider": "Bunny",
@@ -169,17 +169,17 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2388
+      "prefixes": 2392
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11279
+      "prefixes": 11267
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 62018
+      "prefixes": 61283
     },
     {
       "provider": "Baidu",
@@ -204,7 +204,7 @@
     {
       "provider": "Hetzner",
       "category": "hosting",
-      "prefixes": 693
+      "prefixes": 694
     },
     {
       "provider": "Hostway",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2063
+      "prefixes": 2064
     },
     {
       "provider": "Linode",
@@ -234,7 +234,7 @@
     {
       "provider": "NHN Cloud",
       "category": "hosting",
-      "prefixes": 374
+      "prefixes": 375
     },
     {
       "provider": "Oracle Cloud",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 744
+      "prefixes": 745
     },
     {
       "provider": "Rackspace",
@@ -259,12 +259,12 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3429
+      "prefixes": 3430
     },
     {
       "provider": "UpCloud",
       "category": "hosting",
-      "prefixes": 107
+      "prefixes": 113
     },
     {
       "provider": "Vultr",
@@ -274,12 +274,12 @@
     {
       "provider": "Yandex",
       "category": "hosting",
-      "prefixes": 147
+      "prefixes": 150
     },
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1377
+      "prefixes": 1374
     }
   ]
 }
