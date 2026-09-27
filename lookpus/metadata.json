@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-09-26T04:23:44.587687+00:00",
+  "generated": "2026-09-27T04:38:53.639789+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154574,
+  "prefixes": 154578,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10313
+      "prefixes": 10314
     },
     {
       "provider": "Bunny",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 750
+      "prefixes": 751
     },
     {
       "provider": "Rackspace",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1375
+      "prefixes": 1377
     }
   ]
 }
