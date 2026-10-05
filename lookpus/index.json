@@ -360774,12 +360774,6 @@
     "version": 4
   },
   {
-    "cidr": "45.199.179.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "47.52.0.0/16",
     "provider": "Alibaba",
     "category": "hosting",
