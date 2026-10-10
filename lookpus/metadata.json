@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-10-09T05:28:57.242611+00:00",
+  "generated": "2026-10-10T05:10:52.408811+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154334,
+  "prefixes": 154355,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10300
+      "prefixes": 10302
     },
     {
       "provider": "Bunny",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2391
+      "prefixes": 2400
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11330
+      "prefixes": 11332
     },
     {
       "provider": "Azure",
@@ -199,7 +199,7 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1107
+      "prefixes": 1127
     },
     {
       "provider": "Hetzner",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 675
+      "prefixes": 674
     },
     {
       "provider": "IBM Cloud",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2036
+      "prefixes": 2035
     },
     {
       "provider": "Linode",
@@ -274,12 +274,12 @@
     {
       "provider": "Yandex",
       "category": "hosting",
-      "prefixes": 156
+      "prefixes": 157
     },
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1218
+      "prefixes": 1207
     }
   ]
 }
