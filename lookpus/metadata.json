@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-10-11T04:59:23.085034+00:00",
+  "generated": "2026-10-12T05:15:02.693231+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154349,
+  "prefixes": 154344,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10298
+      "prefixes": 10297
     },
     {
       "provider": "Bunny",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1201
+      "prefixes": 1197
     }
   ]
 }
