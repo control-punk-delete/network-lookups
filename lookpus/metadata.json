@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-10-13T06:14:55.790234+00:00",
+  "generated": "2026-10-14T04:19:24.427683+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 154251,
+  "prefixes": 154287,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10298
+      "prefixes": 10296
     },
     {
       "provider": "Bunny",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1826
+      "prefixes": 1825
     },
     {
       "provider": "Quic-cloud",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2341
+      "prefixes": 2373
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11334
+      "prefixes": 11335
     },
     {
       "provider": "Azure",
@@ -194,7 +194,7 @@
     {
       "provider": "Gabia",
       "category": "hosting",
-      "prefixes": 143
+      "prefixes": 145
     },
     {
       "provider": "Google Cloud",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 674
+      "prefixes": 673
     },
     {
       "provider": "IBM Cloud",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 761
+      "prefixes": 760
     },
     {
       "provider": "Rackspace",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3408
+      "prefixes": 3409
     },
     {
       "provider": "UpCloud",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1209
+      "prefixes": 1214
     }
   ]
 }
