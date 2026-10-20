@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-10-19T04:03:46.993193+00:00",
+  "generated": "2026-10-20T04:16:11.590525+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 155268,
+  "prefixes": 155288,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10303
+      "prefixes": 10311
     },
     {
       "provider": "Bunny",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1832
+      "prefixes": 1830
     },
     {
       "provider": "Quic-cloud",
@@ -174,7 +174,7 @@
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11364
+      "prefixes": 11379
     },
     {
       "provider": "Azure",
@@ -189,7 +189,7 @@
     {
       "provider": "DigitalOcean",
       "category": "hosting",
-      "prefixes": 1234
+      "prefixes": 1235
     },
     {
       "provider": "Gabia",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 673
+      "prefixes": 674
     },
     {
       "provider": "IBM Cloud",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2037
+      "prefixes": 2033
     },
     {
       "provider": "Linode",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 769
+      "prefixes": 778
     },
     {
       "provider": "Rackspace",
@@ -269,7 +269,7 @@
     {
       "provider": "Vultr",
       "category": "hosting",
-      "prefixes": 502
+      "prefixes": 495
     },
     {
       "provider": "Yandex",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1210
+      "prefixes": 1209
     }
   ]
 }
