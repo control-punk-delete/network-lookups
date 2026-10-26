@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-10-25T04:03:36.961571+00:00",
+  "generated": "2026-10-26T04:07:54.681410+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 161636,
+  "prefixes": 161643,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10316
+      "prefixes": 10318
     },
     {
       "provider": "Bunny",
@@ -174,7 +174,7 @@
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11409
+      "prefixes": 11411
     },
     {
       "provider": "Azure",
@@ -199,7 +199,7 @@
     {
       "provider": "Google Cloud",
       "category": "hosting",
-      "prefixes": 1128
+      "prefixes": 1135
     },
     {
       "provider": "Hetzner",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1218
+      "prefixes": 1214
     }
   ]
 }
