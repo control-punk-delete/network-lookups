@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-11-01T05:17:30.160720+00:00",
+  "generated": "2026-11-02T05:15:46.790264+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 155065,
+  "prefixes": 155075,
   "providers_stats": [
     {
       "provider": "Akamai",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2403
+      "prefixes": 2402
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11449
+      "prefixes": 11452
     },
     {
       "provider": "Azure",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2047
+      "prefixes": 2048
     },
     {
       "provider": "Linode",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3411
+      "prefixes": 3409
     },
     {
       "provider": "UpCloud",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1228
+      "prefixes": 1237
     }
   ]
 }
