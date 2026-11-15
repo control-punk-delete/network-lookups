@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-11-14T05:47:07.806980+00:00",
+  "generated": "2026-11-15T05:45:59.994531+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 160634,
+  "prefixes": 160612,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10236
+      "prefixes": 10235
     },
     {
       "provider": "Bunny",
@@ -169,7 +169,7 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2431
+      "prefixes": 2409
     },
     {
       "provider": "AWS",
@@ -279,7 +279,7 @@
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1258
+      "prefixes": 1259
     }
   ]
 }

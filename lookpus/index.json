@@ -11154,12 +11154,6 @@
     "version": 4
   },
   {
-    "cidr": "23.46.52.0/22",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "23.46.60.0/23",
     "provider": "Akamai",
     "category": "cdn",
@@ -45384,6 +45378,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1403:8400::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2600:1403:9400::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -47455,12 +47455,6 @@
   },
   {
     "cidr": "2600:1413:1::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
-    "cidr": "2600:1413:1000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -358092,96 +358086,6 @@
     "version": 4
   },
   {
-    "cidr": "38.47.128.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.129.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.131.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.132.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.133.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.134.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.135.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.136.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.137.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.138.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.139.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.140.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.141.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.142.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "38.47.144.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "39.96.0.0/13",
     "provider": "Alibaba",
     "category": "hosting",
@@ -360601,24 +360505,6 @@
   },
   {
     "cidr": "45.113.42.0/23",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "45.194.58.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "45.194.59.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "45.194.63.0/24",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -368214,24 +368100,6 @@
     "version": 4
   },
   {
-    "cidr": "205.198.45.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "205.198.46.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "205.198.47.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "205.204.96.0/19",
     "provider": "Alibaba",
     "category": "hosting",
@@ -368257,12 +368125,6 @@
   },
   {
     "cidr": "205.204.125.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "209.146.118.0/24",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -956352,12 +956214,6 @@
     "version": 4
   },
   {
-    "cidr": "5.253.247.27/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "5.255.101.10/32",
     "provider": "TOR",
     "category": "tor",
@@ -957139,6 +956995,12 @@
   },
   {
     "cidr": "23.134.76.27/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "23.134.76.232/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -959196,12 +959058,6 @@
     "version": 4
   },
   {
-    "cidr": "93.95.231.88/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "93.99.104.18/32",
     "provider": "TOR",
     "category": "tor",
@@ -959700,6 +959556,12 @@
     "version": 4
   },
   {
+    "cidr": "125.212.241.131/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "128.31.0.13/32",
     "provider": "TOR",
     "category": "tor",
@@ -959773,6 +959635,12 @@
   },
   {
     "cidr": "142.249.174.14/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "142.254.112.221/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -961956,12 +961824,6 @@
     "version": 4
   },
   {
-    "cidr": "185.230.162.43/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "185.231.33.38/32",
     "provider": "TOR",
     "category": "tor",
@@ -962970,7 +962832,7 @@
     "version": 4
   },
   {
-    "cidr": "198.167.206.146/32",
+    "cidr": "198.167.206.159/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -963781,6 +963643,12 @@
   },
   {
     "cidr": "213.95.55.63/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "213.210.4.3/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
