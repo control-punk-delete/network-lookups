@@ -13896,6 +13896,12 @@
     "version": 4
   },
   {
+    "cidr": "23.54.165.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "23.54.176.0/20",
     "provider": "Akamai",
     "category": "cdn",
@@ -14533,6 +14539,12 @@
   },
   {
     "cidr": "23.56.64.0/19",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "23.56.96.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -45444,6 +45456,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1404:5400::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2600:1404:6400::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -45918,6 +45936,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1406:3f::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2600:1406:40::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -46219,6 +46243,12 @@
   },
   {
     "cidr": "2600:1406:cc00::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1406:d000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -47395,6 +47425,12 @@
   },
   {
     "cidr": "2600:1413:1::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1413:1000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -61963,6 +61999,48 @@
   },
   {
     "cidr": "79.127.204.113/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.135/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.136/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.137/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.138/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.140/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.141/32",
+    "provider": "Bunny",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "79.127.205.146/32",
     "provider": "Bunny",
     "category": "cdn",
     "version": 4
@@ -358398,6 +358476,24 @@
     "version": 4
   },
   {
+    "cidr": "43.94.64.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.64.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.96.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "43.95.192.0/18",
     "provider": "Alibaba",
     "category": "hosting",
@@ -395221,6 +395317,12 @@
   },
   {
     "cidr": "51.72.74.0/23",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "51.72.96.0/23",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -864126,6 +864228,12 @@
     "version": 4
   },
   {
+    "cidr": "80.238.168.0/24",
+    "provider": "Huawei Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "80.238.169.0/24",
     "provider": "Huawei Cloud",
     "category": "hosting",
@@ -881581,12 +881689,6 @@
   },
   {
     "cidr": "2a0f:e6c6:77::/48",
-    "provider": "Leaseweb",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2a0f:e7c1::/32",
     "provider": "Leaseweb",
     "category": "hosting",
     "version": 6
@@ -926274,6 +926376,12 @@
     "version": 4
   },
   {
+    "cidr": "130.78.26.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "132.243.197.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -927277,6 +927385,12 @@
   },
   {
     "cidr": "164.37.209.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "164.37.215.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -956202,6 +956316,12 @@
     "version": 4
   },
   {
+    "cidr": "2.57.122.210/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "5.2.67.226/32",
     "provider": "TOR",
     "category": "tor",
@@ -957924,12 +958044,6 @@
     "version": 4
   },
   {
-    "cidr": "37.48.70.156/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "37.77.56.238/32",
     "provider": "TOR",
     "category": "tor",
@@ -958339,6 +958453,12 @@
   },
   {
     "cidr": "45.95.169.21/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "45.95.169.119/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -958884,6 +959004,12 @@
     "version": 4
   },
   {
+    "cidr": "84.239.46.144/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "85.11.167.137/32",
     "provider": "TOR",
     "category": "tor",
@@ -959347,6 +959473,24 @@
   },
   {
     "cidr": "104.167.241.224/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "104.167.242.116/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "104.167.242.117/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "104.167.242.118/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -960024,12 +960168,6 @@
     "version": 4
   },
   {
-    "cidr": "150.251.147.101/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "151.240.100.189/32",
     "provider": "TOR",
     "category": "tor",
@@ -960426,6 +960564,12 @@
     "version": 4
   },
   {
+    "cidr": "176.121.81.51/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "178.17.170.225/32",
     "provider": "TOR",
     "category": "tor",
@@ -960463,6 +960607,12 @@
   },
   {
     "cidr": "178.79.154.219/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "178.83.122.52/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -960804,24 +960954,6 @@
     "version": 4
   },
   {
-    "cidr": "185.132.53.11/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "185.132.53.27/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "185.132.53.37/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "185.132.53.45/32",
     "provider": "TOR",
     "category": "tor",
@@ -960829,18 +960961,6 @@
   },
   {
     "cidr": "185.132.53.46/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "185.132.53.47/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "185.132.53.58/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -960901,12 +961021,6 @@
   },
   {
     "cidr": "185.183.157.214/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "185.186.76.110/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -962046,6 +962160,12 @@
     "version": 4
   },
   {
+    "cidr": "187.77.27.242/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "188.68.36.28/32",
     "provider": "TOR",
     "category": "tor",
@@ -962736,6 +962856,12 @@
     "version": 4
   },
   {
+    "cidr": "193.218.118.178/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "193.218.118.182/32",
     "provider": "TOR",
     "category": "tor",
@@ -962916,13 +963042,19 @@
     "version": 4
   },
   {
+    "cidr": "198.167.206.136/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "198.167.206.159/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
   },
   {
-    "cidr": "198.167.206.167/32",
+    "cidr": "198.167.206.207/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -963678,6 +963810,12 @@
     "version": 4
   },
   {
+    "cidr": "209.38.145.86/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "209.141.45.141/32",
     "provider": "TOR",
     "category": "tor",
@@ -963714,7 +963852,31 @@
     "version": 4
   },
   {
+    "cidr": "212.86.121.139/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "212.86.121.140/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "212.86.121.141/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "212.95.50.243/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "212.227.191.249/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -963745,6 +963907,12 @@
   },
   {
     "cidr": "216.239.90.19/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "217.154.92.188/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
