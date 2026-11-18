@@ -22266,6 +22266,12 @@
     "version": 4
   },
   {
+    "cidr": "23.205.123.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "23.205.124.0/23",
     "provider": "Akamai",
     "category": "cdn",
@@ -22993,6 +22999,12 @@
   },
   {
     "cidr": "23.207.210.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "23.207.211.0/24",
     "provider": "Akamai",
     "category": "cdn",
     "version": 4
@@ -38280,6 +38292,24 @@
     "version": 4
   },
   {
+    "cidr": "172.225.151.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "172.225.152.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "172.225.153.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "172.225.154.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -45456,12 +45486,6 @@
     "version": 6
   },
   {
-    "cidr": "2600:1404:5400::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
     "cidr": "2600:1404:6400::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -46495,6 +46519,12 @@
   },
   {
     "cidr": "2600:1408:1c00::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1408:2000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -50196,6 +50226,12 @@
     "version": 6
   },
   {
+    "cidr": "2606:6c00:212::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2606:6c00:213::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -50209,6 +50245,12 @@
   },
   {
     "cidr": "2606:6c00:215::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2606:6c00:2000::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -53760,6 +53802,12 @@
     "version": 6
   },
   {
+    "cidr": "2a02:26f7:b258::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
     "cidr": "2a02:26f7:b26c::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -54211,6 +54259,12 @@
   },
   {
     "cidr": "2a02:26f7:b377::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2a02:26f7:b378::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -54925,6 +54979,12 @@
   },
   {
     "cidr": "2a02:26f7:bac4::/48",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2a02:26f7:bac5::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -70164,7 +70224,31 @@
     "version": 4
   },
   {
+    "cidr": "92.223.107.151/32",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "92.223.107.152/32",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "92.223.107.154/32",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "92.223.107.155/32",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 4
+  },
+  {
+    "cidr": "92.223.107.156/32",
     "provider": "G-Core",
     "category": "cdn",
     "version": 4
@@ -73098,12 +73182,6 @@
     "version": 4
   },
   {
-    "cidr": "212.232.103.73/32",
-    "provider": "G-Core",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "212.232.104.191/32",
     "provider": "G-Core",
     "category": "cdn",
@@ -73621,12 +73699,6 @@
   },
   {
     "cidr": "2a01:c500:1:6::d4e8:670b/128",
-    "provider": "G-Core",
-    "category": "cdn",
-    "version": 6
-  },
-  {
-    "cidr": "2a01:c500:1:6::d4e8:6749/128",
     "provider": "G-Core",
     "category": "cdn",
     "version": 6
@@ -75397,6 +75469,12 @@
   },
   {
     "cidr": "2a03:90c0:c1:2801::150/128",
+    "provider": "G-Core",
+    "category": "cdn",
+    "version": 6
+  },
+  {
+    "cidr": "2a03:90c0:c1:2801::151/128",
     "provider": "G-Core",
     "category": "cdn",
     "version": 6
@@ -357696,6 +357774,12 @@
     "version": 4
   },
   {
+    "cidr": "8.220.171.0/24",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "8.220.192.0/18",
     "provider": "Alibaba",
     "category": "hosting",
@@ -358489,6 +358573,60 @@
   },
   {
     "cidr": "43.94.96.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.128.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.128.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.160.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.192.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.192.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.94.224.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.0.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.0.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.32.0/19",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -360613,6 +360751,12 @@
   },
   {
     "cidr": "43.126.64.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.126.128.0/17",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -366271,6 +366415,12 @@
   },
   {
     "cidr": "139.95.18.0/23",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "139.95.21.0/24",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -408684,12 +408834,6 @@
     "version": 4
   },
   {
-    "cidr": "72.150.21.0/24",
-    "provider": "AWS",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "72.150.22.0/24",
     "provider": "AWS",
     "category": "hosting",
@@ -439518,6 +439662,12 @@
     "version": 4
   },
   {
+    "cidr": "4.145.226.20/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.146.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -439615,6 +439765,12 @@
   },
   {
     "cidr": "4.146.107.64/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.146.109.20/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -441912,6 +442068,18 @@
     "version": 4
   },
   {
+    "cidr": "4.160.12.10/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.160.12.12/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.160.32.0/20",
     "provider": "Azure",
     "category": "hosting",
@@ -442392,6 +442560,12 @@
     "version": 4
   },
   {
+    "cidr": "4.161.168.72/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.161.180.64/26",
     "provider": "Azure",
     "category": "hosting",
@@ -442411,6 +442585,12 @@
   },
   {
     "cidr": "4.161.181.188/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.161.190.120/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -442729,6 +442909,12 @@
   },
   {
     "cidr": "4.171.1.96/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.171.9.16/29",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -443364,6 +443550,12 @@
     "version": 4
   },
   {
+    "cidr": "4.173.130.2/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.173.130.4/30",
     "provider": "Azure",
     "category": "hosting",
@@ -443455,6 +443647,18 @@
   },
   {
     "cidr": "4.174.5.0/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.174.6.32/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.174.6.36/32",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -443989,6 +444193,12 @@
   },
   {
     "cidr": "4.177.44.0/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.177.48.38/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -445068,6 +445278,18 @@
     "version": 4
   },
   {
+    "cidr": "4.186.251.41/32",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.186.251.44/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.187.0.0/18",
     "provider": "Azure",
     "category": "hosting",
@@ -445945,6 +446167,12 @@
   },
   {
     "cidr": "4.189.210.96/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.189.210.114/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -448740,6 +448968,12 @@
     "version": 4
   },
   {
+    "cidr": "4.200.192.84/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.200.208.104/30",
     "provider": "Azure",
     "category": "hosting",
@@ -451224,6 +451458,12 @@
     "version": 4
   },
   {
+    "cidr": "4.211.127.100/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.211.136.48/29",
     "provider": "Azure",
     "category": "hosting",
@@ -451261,6 +451501,12 @@
   },
   {
     "cidr": "4.211.137.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.211.144.238/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -451782,6 +452028,12 @@
     "version": 4
   },
   {
+    "cidr": "4.215.35.20/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.216.0.0/15",
     "provider": "Azure",
     "category": "hosting",
@@ -452113,6 +452365,12 @@
   },
   {
     "cidr": "4.217.144.104/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.217.144.108/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -452490,6 +452748,12 @@
     "version": 4
   },
   {
+    "cidr": "4.219.40.40/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.219.40.48/28",
     "provider": "Azure",
     "category": "hosting",
@@ -452581,6 +452845,12 @@
   },
   {
     "cidr": "4.220.129.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.220.129.96/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -453235,6 +453505,12 @@
   },
   {
     "cidr": "4.222.15.174/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.222.15.190/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -454819,6 +455095,12 @@
   },
   {
     "cidr": "4.230.59.0/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.230.60.160/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -457362,6 +457644,12 @@
     "version": 4
   },
   {
+    "cidr": "4.238.16.74/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.238.16.80/28",
     "provider": "Azure",
     "category": "hosting",
@@ -457561,6 +457849,18 @@
   },
   {
     "cidr": "4.240.138.64/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.240.138.176/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.240.138.178/32",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -458184,6 +458484,12 @@
     "version": 4
   },
   {
+    "cidr": "4.243.130.76/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.243.130.80/28",
     "provider": "Azure",
     "category": "hosting",
@@ -458467,6 +458773,12 @@
   },
   {
     "cidr": "4.244.154.84/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.244.154.88/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -459756,6 +460068,12 @@
     "version": 4
   },
   {
+    "cidr": "4.251.217.36/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "4.251.218.0/23",
     "provider": "Azure",
     "category": "hosting",
@@ -459955,6 +460273,12 @@
   },
   {
     "cidr": "4.252.17.64/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "4.252.17.68/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -461970,6 +462294,354 @@
     "version": 4
   },
   {
+    "cidr": "9.129.248.128/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.248.192/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.248.208/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.248.224/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.249.0/25",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.249.128/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.249.192/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.249.224/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.0/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.32/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.64/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.96/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.112/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.128/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.192/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.224/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.250.240/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.0/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.32/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.48/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.64/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.128/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.192/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.224/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.251.240/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.0/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.32/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.64/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.128/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.144/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.160/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.252.192/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.253.0/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.253.64/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.253.96/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.253.112/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.253.128/25",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.0/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.64/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.96/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.128/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.160/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.176/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.192/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.208/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.254.224/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.0/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.32/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.64/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.96/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.128/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.144/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.160/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.129.255.192/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "9.130.0.0/15",
     "provider": "Azure",
     "category": "hosting",
@@ -461988,7 +462660,19 @@
     "version": 4
   },
   {
+    "cidr": "9.131.128.0/17",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "9.132.0.0/15",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.132.0.0/17",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -462085,6 +462769,12 @@
   },
   {
     "cidr": "9.160.17.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.160.17.32/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -463201,6 +463891,12 @@
   },
   {
     "cidr": "9.205.13.0/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "9.205.13.18/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -479802,6 +480498,12 @@
     "version": 4
   },
   {
+    "cidr": "20.6.192.76/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.6.203.30/31",
     "provider": "Azure",
     "category": "hosting",
@@ -484908,37 +485610,7 @@
     "version": 4
   },
   {
-    "cidr": "20.20.72.0/25",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.72.128/26",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.72.192/27",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.72.224/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.72.240/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.72.248/30",
+    "cidr": "20.20.72.0/24",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -485028,7 +485700,61 @@
     "version": 4
   },
   {
-    "cidr": "20.20.89.0/25",
+    "cidr": "20.20.89.0/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.32/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.48/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.56/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.60/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.66/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.68/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.72/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.89.96/27",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -485046,7 +485772,49 @@
     "version": 4
   },
   {
-    "cidr": "20.20.92.0/22",
+    "cidr": "20.20.92.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.94.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.0/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.64/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.140/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.144/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.160/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.20.95.192/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -485208,7 +485976,7 @@
     "version": 4
   },
   {
-    "cidr": "20.20.106.128/30",
+    "cidr": "20.20.106.128/29",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -485256,49 +486024,19 @@
     "version": 4
   },
   {
-    "cidr": "20.20.120.0/24",
+    "cidr": "20.20.120.0/23",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "20.20.121.0/25",
+    "cidr": "20.20.122.0/29",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "20.20.121.128/26",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.121.192/27",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.121.224/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.121.240/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.121.248/30",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "20.20.121.252/31",
+    "cidr": "20.20.122.8/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -487609,6 +488347,12 @@
   },
   {
     "cidr": "20.28.89.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.28.89.168/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -510912,6 +511656,18 @@
     "version": 4
   },
   {
+    "cidr": "20.66.192.58/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.66.192.60/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.66.210.0/26",
     "provider": "Azure",
     "category": "hosting",
@@ -516541,6 +517297,12 @@
   },
   {
     "cidr": "20.91.56.16/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.91.56.20/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -529188,6 +529950,18 @@
     "version": 4
   },
   {
+    "cidr": "20.152.136.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.152.138.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.153.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -533718,6 +534492,12 @@
     "version": 4
   },
   {
+    "cidr": "20.167.202.74/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.167.202.80/28",
     "provider": "Azure",
     "category": "hosting",
@@ -534228,6 +535008,12 @@
     "version": 4
   },
   {
+    "cidr": "20.170.50.184/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.170.56.16/29",
     "provider": "Azure",
     "category": "hosting",
@@ -534361,6 +535147,12 @@
   },
   {
     "cidr": "20.170.161.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.170.161.100/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -534925,6 +535717,12 @@
   },
   {
     "cidr": "20.173.220.40/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.173.222.206/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -544848,6 +545646,12 @@
     "version": 4
   },
   {
+    "cidr": "20.197.160.76/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.197.175.106/31",
     "provider": "Azure",
     "category": "hosting",
@@ -550452,6 +551256,12 @@
     "version": 4
   },
   {
+    "cidr": "20.207.9.12/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.207.9.16/28",
     "provider": "Azure",
     "category": "hosting",
@@ -554857,6 +555667,12 @@
   },
   {
     "cidr": "20.216.121.80/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.216.121.86/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -561906,6 +562722,12 @@
     "version": 4
   },
   {
+    "cidr": "20.244.251.20/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "20.244.252.0/23",
     "provider": "Azure",
     "category": "hosting",
@@ -562777,6 +563599,12 @@
   },
   {
     "cidr": "20.250.248.208/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "20.250.248.212/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -580812,6 +581640,12 @@
     "version": 4
   },
   {
+    "cidr": "40.81.97.120/32",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "40.81.112.0/20",
     "provider": "Azure",
     "category": "hosting",
@@ -588252,6 +589086,12 @@
     "version": 4
   },
   {
+    "cidr": "40.93.3.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "40.93.4.0/24",
     "provider": "Azure",
     "category": "hosting",
@@ -589831,6 +590671,12 @@
   },
   {
     "cidr": "40.100.80.192/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "40.100.81.0/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -592206,6 +593052,12 @@
     "version": 4
   },
   {
+    "cidr": "40.117.3.32/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "40.117.9.125/32",
     "provider": "Azure",
     "category": "hosting",
@@ -594390,25 +595242,19 @@
     "version": 4
   },
   {
-    "cidr": "40.120.146.128/27",
+    "cidr": "40.120.146.128/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "40.120.146.160/28",
+    "cidr": "40.120.146.192/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "40.120.146.176/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "40.120.146.184/31",
+    "cidr": "40.120.146.196/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -595500,31 +596346,13 @@
     "version": 4
   },
   {
-    "cidr": "40.120.170.0/27",
+    "cidr": "40.120.170.0/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "40.120.170.32/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "40.120.170.48/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "40.120.170.56/30",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "40.120.170.60/31",
+    "cidr": "40.120.170.64/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -602202,6 +603030,12 @@
     "version": 4
   },
   {
+    "cidr": "48.193.0.32/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "48.193.48.80/28",
     "provider": "Azure",
     "category": "hosting",
@@ -602815,6 +603649,12 @@
   },
   {
     "cidr": "48.195.88.48/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "48.195.92.100/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -604896,6 +605736,12 @@
     "version": 4
   },
   {
+    "cidr": "48.198.210.192/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "48.199.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -605575,6 +606421,12 @@
   },
   {
     "cidr": "48.203.174.48/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "48.203.176.222/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -611994,6 +612846,12 @@
     "version": 4
   },
   {
+    "cidr": "48.216.60.10/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "48.216.60.16/28",
     "provider": "Azure",
     "category": "hosting",
@@ -612133,6 +612991,12 @@
   },
   {
     "cidr": "48.219.53.96/27",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "48.219.53.128/27",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -613530,7 +614394,7 @@
     "version": 4
   },
   {
-    "cidr": "48.223.123.172/31",
+    "cidr": "48.223.123.172/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -614371,6 +615235,12 @@
   },
   {
     "cidr": "51.4.172.0/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "51.4.172.18/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -619836,6 +620706,12 @@
     "version": 4
   },
   {
+    "cidr": "51.56.172.40/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "51.56.204.64/28",
     "provider": "Azure",
     "category": "hosting",
@@ -620239,6 +621115,12 @@
   },
   {
     "cidr": "51.58.2.96/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "51.58.2.100/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -642301,6 +643183,138 @@
   },
   {
     "cidr": "52.123.64.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.65.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.66.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.67.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.68.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.69.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.70.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.71.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.72.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.73.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.74.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.75.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.76.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.77.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.78.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.79.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.80.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.81.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.82.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.84.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.86.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.88.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "52.123.90.0/24",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -669258,13 +670272,19 @@
     "version": 4
   },
   {
-    "cidr": "57.157.27.0/28",
+    "cidr": "57.157.27.0/27",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.27.16/29",
+    "cidr": "57.157.27.32/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.157.27.40/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -669366,7 +670386,7 @@
     "version": 4
   },
   {
-    "cidr": "57.157.35.160/29",
+    "cidr": "57.157.35.160/28",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -669606,13 +670626,19 @@
     "version": 4
   },
   {
-    "cidr": "57.157.45.72/30",
+    "cidr": "57.157.45.72/29",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.45.76/31",
+    "cidr": "57.157.45.80/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.157.45.82/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670002,7 +671028,13 @@
     "version": 4
   },
   {
-    "cidr": "57.157.50.240/31",
+    "cidr": "57.157.50.240/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.157.50.248/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670044,31 +671076,13 @@
     "version": 4
   },
   {
-    "cidr": "57.157.61.128/27",
+    "cidr": "57.157.61.128/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.61.160/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.61.176/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.61.184/30",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.61.188/31",
+    "cidr": "57.157.61.192/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670104,6 +671118,18 @@
     "version": 4
   },
   {
+    "cidr": "57.157.67.112/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.157.67.120/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "57.157.68.0/22",
     "provider": "Azure",
     "category": "hosting",
@@ -670116,25 +671142,13 @@
     "version": 4
   },
   {
-    "cidr": "57.157.74.0/25",
+    "cidr": "57.157.74.0/24",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.74.128/26",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.74.192/27",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.74.224/31",
+    "cidr": "57.157.75.0/28",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670332,31 +671346,19 @@
     "version": 4
   },
   {
-    "cidr": "57.157.130.0/25",
+    "cidr": "57.157.130.0/24",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.130.128/26",
+    "cidr": "57.157.131.0/28",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.130.192/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.130.208/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.130.216/30",
+    "cidr": "57.157.131.16/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670392,31 +671394,13 @@
     "version": 4
   },
   {
-    "cidr": "57.157.168.0/27",
+    "cidr": "57.157.168.0/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
-    "cidr": "57.157.168.32/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.168.48/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.168.56/30",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.168.60/31",
+    "cidr": "57.157.168.64/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -670428,25 +671412,7 @@
     "version": 4
   },
   {
-    "cidr": "57.157.188.128/27",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.188.160/28",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.188.176/29",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "57.157.188.184/30",
+    "cidr": "57.157.188.128/26",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -671694,6 +672660,42 @@
     "version": 4
   },
   {
+    "cidr": "57.163.104.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.163.106.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.163.108.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.163.110.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.163.112.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.163.114.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "57.164.0.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -671994,6 +672996,12 @@
     "version": 4
   },
   {
+    "cidr": "57.167.224.148/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "57.168.0.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -672163,6 +673171,18 @@
   },
   {
     "cidr": "57.169.129.4/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.169.129.8/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.169.129.12/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -672906,6 +673926,12 @@
     "version": 4
   },
   {
+    "cidr": "57.173.70.200/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "57.173.128.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -673111,6 +674137,12 @@
   },
   {
     "cidr": "57.175.74.168/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "57.175.74.172/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -674556,6 +675588,12 @@
     "version": 4
   },
   {
+    "cidr": "68.154.156.16/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "68.154.160.112/28",
     "provider": "Azure",
     "category": "hosting",
@@ -674778,6 +675816,12 @@
     "version": 4
   },
   {
+    "cidr": "68.155.250.54/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "68.155.250.56/30",
     "provider": "Azure",
     "category": "hosting",
@@ -674809,6 +675853,12 @@
   },
   {
     "cidr": "68.210.1.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "68.210.1.32/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -676279,6 +677329,12 @@
   },
   {
     "cidr": "68.211.33.20/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "68.211.33.24/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -680910,6 +681966,12 @@
     "version": 4
   },
   {
+    "cidr": "70.156.216.204/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "70.157.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -681139,6 +682201,12 @@
   },
   {
     "cidr": "70.157.83.48/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "70.157.83.68/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -681421,6 +682489,12 @@
   },
   {
     "cidr": "70.157.200.128/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "70.157.200.208/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -683460,6 +684534,12 @@
     "version": 4
   },
   {
+    "cidr": "74.7.100.16/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.7.113.168/29",
     "provider": "Azure",
     "category": "hosting",
@@ -684150,6 +685230,12 @@
     "version": 4
   },
   {
+    "cidr": "74.144.43.100/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.144.69.32/27",
     "provider": "Azure",
     "category": "hosting",
@@ -684193,6 +685279,12 @@
   },
   {
     "cidr": "74.144.134.0/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.144.134.4/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -684271,6 +685363,12 @@
   },
   {
     "cidr": "74.144.177.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.144.178.252/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -684384,13 +685482,19 @@
     "version": 4
   },
   {
-    "cidr": "74.145.160.112/31",
+    "cidr": "74.145.160.112/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
   },
   {
     "cidr": "74.145.160.116/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.145.160.120/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -684534,7 +685638,19 @@
     "version": 4
   },
   {
+    "cidr": "74.146.69.166/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.146.128.0/17",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.146.135.138/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -685032,6 +686148,24 @@
     "version": 4
   },
   {
+    "cidr": "74.151.95.145/32",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.151.95.146/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.151.95.148/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.151.128.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -685273,6 +686407,12 @@
   },
   {
     "cidr": "74.155.60.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.155.63.244/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -687258,6 +688398,12 @@
     "version": 4
   },
   {
+    "cidr": "74.224.241.226/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.224.242.0/23",
     "provider": "Azure",
     "category": "hosting",
@@ -688381,6 +689527,12 @@
   },
   {
     "cidr": "74.242.25.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "74.242.25.104/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -689994,6 +691146,12 @@
     "version": 4
   },
   {
+    "cidr": "74.248.243.212/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "74.249.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -690552,6 +691710,12 @@
     "version": 4
   },
   {
+    "cidr": "85.211.69.18/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "85.211.70.0/23",
     "provider": "Azure",
     "category": "hosting",
@@ -690649,6 +691813,12 @@
   },
   {
     "cidr": "85.211.145.28/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "85.211.145.128/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -701874,6 +703044,12 @@
     "version": 4
   },
   {
+    "cidr": "128.24.235.168/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "128.85.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -708564,6 +709740,12 @@
     "version": 4
   },
   {
+    "cidr": "135.235.135.248/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "135.235.149.240/28",
     "provider": "Azure",
     "category": "hosting",
@@ -709836,6 +711018,24 @@
     "version": 4
   },
   {
+    "cidr": "145.133.209.248/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.133.209.252/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.133.209.254/32",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "145.176.0.0/13",
     "provider": "Azure",
     "category": "hosting",
@@ -710580,6 +711780,48 @@
     "version": 4
   },
   {
+    "cidr": "145.190.204.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.205.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.206.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.207.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.208.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.209.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "145.190.210.0/24",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "145.191.0.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -711109,6 +712351,18 @@
   },
   {
     "cidr": "150.171.114.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "150.171.116.0/23",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "150.171.118.0/24",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -714018,6 +715272,12 @@
     "version": 4
   },
   {
+    "cidr": "167.105.228.32/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "167.105.250.44/30",
     "provider": "Azure",
     "category": "hosting",
@@ -715914,6 +717174,12 @@
     "version": 4
   },
   {
+    "cidr": "172.129.196.164/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.130.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -715998,6 +717264,12 @@
     "version": 4
   },
   {
+    "cidr": "172.132.61.124/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.132.128.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -716011,6 +717283,12 @@
   },
   {
     "cidr": "172.133.3.120/29",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.133.11.28/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716088,7 +717366,19 @@
     "version": 4
   },
   {
+    "cidr": "172.134.133.0/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.135.0.0/16",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.135.74.140/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716137,6 +717427,12 @@
   },
   {
     "cidr": "172.140.129.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.140.134.156/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716226,6 +717522,12 @@
     "version": 4
   },
   {
+    "cidr": "172.143.14.16/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.143.128.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -716268,6 +717570,24 @@
     "version": 4
   },
   {
+    "cidr": "172.146.5.128/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.146.5.132/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.146.5.134/32",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.147.0.0/17",
     "provider": "Azure",
     "category": "hosting",
@@ -716299,6 +717619,12 @@
   },
   {
     "cidr": "172.147.5.16/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.147.11.24/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716346,6 +717672,12 @@
     "version": 4
   },
   {
+    "cidr": "172.147.134.84/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.148.0.0/16",
     "provider": "Azure",
     "category": "hosting",
@@ -716353,6 +717685,12 @@
   },
   {
     "cidr": "172.149.0.0/17",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.149.7.92/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716443,6 +717781,12 @@
   },
   {
     "cidr": "172.160.154.192/26",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.160.160.138/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716581,6 +717925,12 @@
   },
   {
     "cidr": "172.161.115.208/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.161.116.162/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -716929,6 +718279,12 @@
   },
   {
     "cidr": "172.165.41.192/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.165.41.196/30",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -719442,6 +720798,12 @@
     "version": 4
   },
   {
+    "cidr": "172.182.17.150/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.182.17.152/30",
     "provider": "Azure",
     "category": "hosting",
@@ -720810,6 +722172,12 @@
     "version": 4
   },
   {
+    "cidr": "172.187.17.242/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.187.18.0/23",
     "provider": "Azure",
     "category": "hosting",
@@ -721555,6 +722923,12 @@
   },
   {
     "cidr": "172.192.144.80/28",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.192.144.118/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -724626,6 +726000,12 @@
     "version": 4
   },
   {
+    "cidr": "172.204.108.140/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.204.130.78/32",
     "provider": "Azure",
     "category": "hosting",
@@ -726528,6 +727908,12 @@
     "version": 4
   },
   {
+    "cidr": "172.209.182.108/31",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "172.209.191.56/29",
     "provider": "Azure",
     "category": "hosting",
@@ -727381,6 +728767,12 @@
   },
   {
     "cidr": "172.213.134.112/30",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "172.213.134.116/31",
     "provider": "Azure",
     "category": "hosting",
     "version": 4
@@ -733686,6 +735078,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1000:4:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1000:4:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -734406,6 +735804,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1000:104:12::510/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1000:104:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -734881,6 +736285,12 @@
   },
   {
     "cidr": "2603:1000:104:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1000:104:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -735696,7 +737106,25 @@
     "version": 6
   },
   {
+    "cidr": "2603:1010:6:1a::5d5/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1010:6:1a::600/121",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1010:6:1b::71c/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1010:6:1b::7d0/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -736183,6 +737611,12 @@
   },
   {
     "cidr": "2603:1010:6:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1010:6:1000::1c/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -737251,6 +738685,12 @@
   },
   {
     "cidr": "2603:1010:101:c00::2/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1010:101:c00::4/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -738480,6 +739920,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1010:304:800::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1010:305::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -739302,6 +740748,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1010:404:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1010:404:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -740070,6 +741522,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1010:502:1000::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1010:503::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -740755,6 +742213,12 @@
   },
   {
     "cidr": "2603:1020:5:1::380/121",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:5:1::438/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -741834,6 +743298,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:5:1000::cc/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:6::/47",
     "provider": "Azure",
     "category": "hosting",
@@ -742591,6 +744061,12 @@
   },
   {
     "cidr": "2603:1020:104:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:104:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -744612,6 +746088,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:206:37::24/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:206:40::/58",
     "provider": "Azure",
     "category": "hosting",
@@ -745207,6 +746689,12 @@
   },
   {
     "cidr": "2603:1020:206:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:206:1000::48/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -746767,6 +748255,12 @@
   },
   {
     "cidr": "2603:1020:605:800::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:605:800::18/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -748662,6 +750156,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:705:1f::751/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:705:20::/59",
     "provider": "Azure",
     "category": "hosting",
@@ -748669,6 +750169,18 @@
   },
   {
     "cidr": "2603:1020:705:20::400/121",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:705:21::7e0/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:705:21::7e4/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -749185,6 +750697,12 @@
   },
   {
     "cidr": "2603:1020:705:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:705:1000::14/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -749868,6 +751386,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:805:18::67c/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:805:19::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -750331,6 +751855,12 @@
   },
   {
     "cidr": "2603:1020:805:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:805:1000::16/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -751200,6 +752730,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:905:800::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:906::/47",
     "provider": "Azure",
     "category": "hosting",
@@ -751932,6 +753468,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:a04:12::6e8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:a04:13::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -752395,6 +753937,12 @@
   },
   {
     "cidr": "2603:1020:a04:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:a04:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -753240,6 +754788,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:b04:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:b04:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -753697,6 +755251,12 @@
   },
   {
     "cidr": "2603:1020:c04:5::780/122",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:c04:6::124/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -754387,6 +755947,12 @@
   },
   {
     "cidr": "2603:1020:c04:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:c04:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -755226,6 +756792,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:d04:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:d04:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -755952,6 +757524,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:e04:11::5e/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:e04:12::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -756421,6 +757999,12 @@
   },
   {
     "cidr": "2603:1020:e04:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:e04:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -757272,6 +758856,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:f04:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:f04:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -757998,6 +759588,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1004:19::3e4/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1004:1a::400/118",
     "provider": "Azure",
     "category": "hosting",
@@ -758575,6 +760171,12 @@
   },
   {
     "cidr": "2603:1020:1004:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:1004:1000::36/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -759324,6 +760926,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1104:800::6/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1104:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -759984,6 +761592,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1204:f::698/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1204:10::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -760273,6 +761887,12 @@
   },
   {
     "cidr": "2603:1020:1204:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:1204:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -761262,6 +762882,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1302:1000::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1302:1000::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -762108,6 +763734,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1403:1000::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1403:1000::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -762763,6 +764395,12 @@
   },
   {
     "cidr": "2603:1020:1502:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1020:1502:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -763872,6 +765510,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1020:1602:1000::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1020:1602:2000::/51",
     "provider": "Azure",
     "category": "hosting",
@@ -764773,6 +766417,12 @@
   },
   {
     "cidr": "2603:1026:900:5a::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1026:900:5c::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -768654,7 +770304,19 @@
     "version": 6
   },
   {
-    "cidr": "2603:1030:9:8bc::/64",
+    "cidr": "2603:1030:9:8bc::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:9:8be::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:9:8bf::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -769597,6 +771259,12 @@
   },
   {
     "cidr": "2603:1030:f:16::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:f:16::218/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -770586,6 +772254,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:10:30::77c/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:10:31::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -771055,6 +772729,12 @@
   },
   {
     "cidr": "2603:1030:10:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:10:1000::c0/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -773964,6 +775644,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:210:4a::60c/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:210:80::/57",
     "provider": "Azure",
     "category": "hosting",
@@ -774463,6 +776149,18 @@
   },
   {
     "cidr": "2603:1030:210:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:210:1000::84/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:210:1000::88/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -778494,6 +780192,24 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:401:b62::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:401:b64::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:401:b65::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:402::/47",
     "provider": "Azure",
     "category": "hosting",
@@ -779352,7 +781068,25 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:40b:18::2a5/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:40b:18::2c0/123",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:40b:18::3a4/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:40b:18::3a8/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -779881,6 +781615,12 @@
   },
   {
     "cidr": "2603:1030:40b:1400::62/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:40b:1400::68/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -780828,6 +782568,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:40c:3d::2f0/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:40c:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -781333,6 +783079,12 @@
   },
   {
     "cidr": "2603:1030:40c:1800::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:40c:1800::c4/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -782220,6 +783972,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:504:25::cc/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:504:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -782820,6 +784578,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:504:1400::12/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:505::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -783157,6 +784921,12 @@
   },
   {
     "cidr": "2603:1030:608::780/121",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:608::c60/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -784044,6 +785814,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:608:1000::20/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:609::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -784819,6 +786595,12 @@
   },
   {
     "cidr": "2603:1030:702:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:702:1000::16/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -786768,6 +788550,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:807:26::398/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:807:26::400/118",
     "provider": "Azure",
     "category": "hosting",
@@ -787290,7 +789078,13 @@
     "version": 6
   },
   {
-    "cidr": "2603:1030:807:1400::1c/127",
+    "cidr": "2603:1030:807:1400::1c/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:807:1400::20/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -787891,6 +789685,12 @@
   },
   {
     "cidr": "2603:1030:902:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:902:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -788790,6 +790590,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:a07:33::4ca/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:a07:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -789085,6 +790891,12 @@
   },
   {
     "cidr": "2603:1030:a07:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:a07:1000::106/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -789882,6 +791694,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:b04:1a::7c/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:b04:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -790207,6 +792025,12 @@
   },
   {
     "cidr": "2603:1030:b04:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:b04:1000::3c/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -791046,6 +792870,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:c06:35::394/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:c06:400::880/125",
     "provider": "Azure",
     "category": "hosting",
@@ -791497,6 +793327,12 @@
   },
   {
     "cidr": "2603:1030:c06:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:c06:1000::1c/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -792054,6 +793890,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:f05:7::758/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:f05:8::380/123",
     "provider": "Azure",
     "category": "hosting",
@@ -792253,6 +794095,12 @@
   },
   {
     "cidr": "2603:1030:f05:15::340/123",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:f05:16::3eb/128",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -792727,6 +794575,12 @@
   },
   {
     "cidr": "2603:1030:f05:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:f05:1000::10/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -794358,6 +796212,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1030:1102:800::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1030:1103::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -795433,6 +797293,12 @@
   },
   {
     "cidr": "2603:1030:1302:800::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1030:1302:800::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -800916,6 +802782,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:5:24::2e4/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:5:25::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -801385,6 +803257,12 @@
   },
   {
     "cidr": "2603:1040:5:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:5:1000::6c/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -802134,6 +804012,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:207:1a::464/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:207:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -802536,6 +804420,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:207:1000::38/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:208::/47",
     "provider": "Azure",
     "category": "hosting",
@@ -802711,6 +804601,12 @@
   },
   {
     "cidr": "2603:1040:407::900/120",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:407::c30/126",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -803689,6 +805585,12 @@
   },
   {
     "cidr": "2603:1040:407:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:407:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -804739,6 +806641,12 @@
   },
   {
     "cidr": "2603:1040:606:1000::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:606:1000::16/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -806226,6 +808134,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:904:11::50/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:904:400::/123",
     "provider": "Azure",
     "category": "hosting",
@@ -806695,6 +808609,12 @@
   },
   {
     "cidr": "2603:1040:904:1000::2/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:904:1000::4/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -807462,6 +809382,18 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:a06:15::a7/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:a06:15::284/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:a06:15::400/118",
     "provider": "Azure",
     "category": "hosting",
@@ -807937,6 +809869,12 @@
   },
   {
     "cidr": "2603:1040:a06:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:a06:1000::1a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -808800,6 +810738,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:b04:c00::4/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:b04:c00::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -809653,6 +811597,12 @@
   },
   {
     "cidr": "2603:1040:c06:800::8/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:c06:800::34/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -810804,6 +812754,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:d04:1000::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:d04:1000::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -811554,6 +813510,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:e05:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:e05:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -812286,6 +814248,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:f05:15::21c/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:f05:15::400/118",
     "provider": "Azure",
     "category": "hosting",
@@ -812767,6 +814735,12 @@
   },
   {
     "cidr": "2603:1040:f05:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:f05:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -813444,6 +815418,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:1002:e::e4/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:1002:f::/118",
     "provider": "Azure",
     "category": "hosting",
@@ -813762,6 +815742,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:1002:1000::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:1003::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -813889,6 +815875,12 @@
   },
   {
     "cidr": "2603:1040:1104::300/122",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1104::3aa/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -814278,6 +816270,30 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:1104:b::6ac/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1104:b::6b0/125",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1104:b::6b8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1104:b::6ba/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:1104:400::80/125",
     "provider": "Azure",
     "category": "hosting",
@@ -814477,6 +816493,12 @@
   },
   {
     "cidr": "2603:1040:1104:800::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1104:800::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -815107,6 +817129,12 @@
   },
   {
     "cidr": "2603:1040:1202:800::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1202:800::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -816078,6 +818106,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:1302:b::4ec/126",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:1302:c::400/118",
     "provider": "Azure",
     "category": "hosting",
@@ -816325,6 +818359,12 @@
   },
   {
     "cidr": "2603:1040:1302:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1302:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -817267,6 +819307,12 @@
   },
   {
     "cidr": "2603:1040:1402:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1402:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -818316,6 +820362,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1040:1503:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1040:1503:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -819169,6 +821221,12 @@
   },
   {
     "cidr": "2603:1040:1602:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1602:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -820207,6 +822265,12 @@
   },
   {
     "cidr": "2603:1040:1702:1000::8/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1702:1000::a/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -821527,6 +823591,12 @@
   },
   {
     "cidr": "2603:1040:1802:1000::/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1040:1802:1000::2/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -823278,7 +825348,7 @@
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00::/59",
+    "cidr": "2603:1046:a00::/58",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -823422,12 +825492,6 @@
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00:20::/60",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
     "cidr": "2603:1046:a00:20::/64",
     "provider": "Azure",
     "category": "hosting",
@@ -823500,12 +825564,6 @@
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00:30::/61",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
     "cidr": "2603:1046:a00:30::/63",
     "provider": "Azure",
     "category": "hosting",
@@ -823542,12 +825600,6 @@
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00:38::/63",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
     "cidr": "2603:1046:a00:38::/64",
     "provider": "Azure",
     "category": "hosting",
@@ -823560,13 +825612,13 @@
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00:3b::/64",
+    "cidr": "2603:1046:a00:3a::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1046:a00:3c::/62",
+    "cidr": "2603:1046:a00:3b::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -825822,6 +827874,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1050:6:8::19c/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1050:6:a::300/120",
     "provider": "Azure",
     "category": "hosting",
@@ -826507,6 +828565,12 @@
   },
   {
     "cidr": "2603:1050:6:1000::a/128",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1050:6:1000::52/127",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -827250,6 +829314,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1050:301:1000::a/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1050:302::/48",
     "provider": "Azure",
     "category": "hosting",
@@ -827964,6 +830034,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1050:403:800::2/127",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1050:403:800::8/125",
     "provider": "Azure",
     "category": "hosting",
@@ -828336,6 +830412,12 @@
     "version": 6
   },
   {
+    "cidr": "2603:1061:18::/48",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2603:1061:1000::/39",
     "provider": "Azure",
     "category": "hosting",
@@ -828390,31 +830472,7 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:1005:80::/59",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:1005:a0::/60",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:1005:b0::/61",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:1005:b8::/62",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:1005:bc::/63",
+    "cidr": "2603:1061:1005:80::/58",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -828516,13 +830574,19 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:1008:150::/62",
+    "cidr": "2603:1061:1008:150::/61",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1061:1008:154::/64",
+    "cidr": "2603:1061:1008:158::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1008:15a::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -828702,19 +830766,13 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:100d:110::/62",
+    "cidr": "2603:1061:100d:110::/61",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1061:100d:114::/63",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:100d:116::/64",
+    "cidr": "2603:1061:100d:118::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -828840,13 +830898,7 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:1012:70::/62",
-    "provider": "Azure",
-    "category": "hosting",
-    "version": 6
-  },
-  {
-    "cidr": "2603:1061:1012:74::/63",
+    "cidr": "2603:1061:1012:70::/61",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -828858,7 +830910,43 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:1013:80::/59",
+    "cidr": "2603:1061:1013:80::/60",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:90::/62",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:94::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:96::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:99::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:9a::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:1013:9c::/62",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -828948,19 +831036,19 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:1016:f0::/62",
+    "cidr": "2603:1061:1016:f0::/61",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1061:1016:f4::/63",
+    "cidr": "2603:1061:1016:f8::/62",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1061:1016:f6::/64",
+    "cidr": "2603:1061:1016:fc::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -829074,13 +831162,19 @@
     "version": 6
   },
   {
-    "cidr": "2603:1061:101a:180::/61",
+    "cidr": "2603:1061:101a:180::/60",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
   },
   {
-    "cidr": "2603:1061:101a:188::/64",
+    "cidr": "2603:1061:101a:190::/63",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2603:1061:101a:192::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -838897,6 +840991,12 @@
   },
   {
     "cidr": "2a01:111:f403:c109::/64",
+    "provider": "Azure",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a01:111:f403:c10a::/64",
     "provider": "Azure",
     "category": "hosting",
     "version": 6
@@ -860970,6 +863070,12 @@
     "version": 4
   },
   {
+    "cidr": "5.222.0.0/16",
+    "provider": "Hetzner",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "23.88.0.0/17",
     "provider": "Hetzner",
     "category": "hosting",
@@ -878370,6 +880476,12 @@
     "version": 4
   },
   {
+    "cidr": "178.239.119.0/24",
+    "provider": "Leaseweb",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "178.250.16.0/24",
     "provider": "Leaseweb",
     "category": "hosting",
@@ -881083,6 +883195,12 @@
   },
   {
     "cidr": "2a0d:9400::/29",
+    "provider": "Leaseweb",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a0d:d902::/32",
     "provider": "Leaseweb",
     "category": "hosting",
     "version": 6
@@ -925188,6 +927306,18 @@
     "version": 4
   },
   {
+    "cidr": "48.103.232.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "48.103.240.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "50.114.91.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -925393,6 +927523,12 @@
   },
   {
     "cidr": "62.76.224.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "62.84.161.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -925638,6 +927774,12 @@
     "version": 4
   },
   {
+    "cidr": "79.182.33.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "79.182.115.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -925770,6 +927912,12 @@
     "version": 4
   },
   {
+    "cidr": "82.47.158.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "82.47.180.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -925854,6 +928002,12 @@
     "version": 4
   },
   {
+    "cidr": "83.141.113.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "83.143.16.0/21",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -925921,6 +928075,12 @@
   },
   {
     "cidr": "87.76.140.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "87.76.182.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -926383,6 +928543,12 @@
   },
   {
     "cidr": "132.243.197.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "132.243.215.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -927564,6 +929730,12 @@
     "version": 4
   },
   {
+    "cidr": "177.177.242.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "178.32.0.0/15",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -927978,6 +930150,12 @@
     "version": 4
   },
   {
+    "cidr": "192.120.199.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "192.124.170.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
@@ -928039,6 +930217,12 @@
   },
   {
     "cidr": "193.93.254.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "193.124.6.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -928339,6 +930523,18 @@
   },
   {
     "cidr": "201.50.22.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "201.58.144.0/24",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "201.58.149.0/24",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 4
@@ -928897,6 +931093,12 @@
   },
   {
     "cidr": "2a03:bf80:4::/48",
+    "provider": "Ovh Cloud",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2a0b:4e07:b80::/48",
     "provider": "Ovh Cloud",
     "category": "hosting",
     "version": 6
@@ -958572,6 +960774,12 @@
     "version": 4
   },
   {
+    "cidr": "46.105.20.238/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "46.165.243.36/32",
     "provider": "TOR",
     "category": "tor",
@@ -958734,6 +960942,12 @@
     "version": 4
   },
   {
+    "cidr": "66.63.170.103/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "66.63.170.141/32",
     "provider": "TOR",
     "category": "tor",
@@ -958783,6 +960997,18 @@
   },
   {
     "cidr": "69.12.83.15/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "69.12.83.131/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "69.12.83.253/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -958975,12 +961201,6 @@
   },
   {
     "cidr": "82.221.139.190/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "84.3.219.251/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -959232,6 +961452,12 @@
     "version": 4
   },
   {
+    "cidr": "92.119.164.208/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "92.246.84.133/32",
     "provider": "TOR",
     "category": "tor",
@@ -959275,6 +961501,12 @@
   },
   {
     "cidr": "93.99.104.194/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "93.127.143.163/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -959347,6 +961579,12 @@
   },
   {
     "cidr": "96.44.159.142/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "96.44.159.204/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -959430,12 +961668,6 @@
     "version": 4
   },
   {
-    "cidr": "103.146.203.14/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "103.146.203.120/32",
     "provider": "TOR",
     "category": "tor",
@@ -959503,6 +961735,12 @@
   },
   {
     "cidr": "104.219.236.100/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "104.223.85.48/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -959791,6 +962029,12 @@
   },
   {
     "cidr": "136.244.111.163/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "137.220.120.168/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -960798,6 +963042,12 @@
     "version": 4
   },
   {
+    "cidr": "185.100.87.42/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "185.100.87.136/32",
     "provider": "TOR",
     "category": "tor",
@@ -960954,6 +963204,24 @@
     "version": 4
   },
   {
+    "cidr": "185.132.53.11/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "185.132.53.27/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "185.132.53.37/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
     "cidr": "185.132.53.45/32",
     "provider": "TOR",
     "category": "tor",
@@ -960961,6 +963229,18 @@
   },
   {
     "cidr": "185.132.53.46/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "185.132.53.47/32",
+    "provider": "TOR",
+    "category": "tor",
+    "version": 4
+  },
+  {
+    "cidr": "185.132.53.58/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -962964,12 +965244,6 @@
     "version": 4
   },
   {
-    "cidr": "194.55.167.14/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
     "cidr": "195.47.238.50/32",
     "provider": "TOR",
     "category": "tor",
@@ -963048,13 +965322,13 @@
     "version": 4
   },
   {
-    "cidr": "198.167.206.159/32",
+    "cidr": "198.167.206.207/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
   },
   {
-    "cidr": "198.167.206.207/32",
+    "cidr": "198.167.206.248/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
@@ -963835,12 +966109,6 @@
   },
   {
     "cidr": "212.38.189.186/32",
-    "provider": "TOR",
-    "category": "tor",
-    "version": 4
-  },
-  {
-    "cidr": "212.69.167.80/32",
     "provider": "TOR",
     "category": "tor",
     "version": 4
