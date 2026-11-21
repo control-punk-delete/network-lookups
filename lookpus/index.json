@@ -636,12 +636,6 @@
     "version": 4
   },
   {
-    "cidr": "2.16.155.0/24",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 4
-  },
-  {
     "cidr": "2.16.156.0/23",
     "provider": "Akamai",
     "category": "cdn",
@@ -24402,6 +24396,12 @@
     "version": 4
   },
   {
+    "cidr": "23.211.134.0/24",
+    "provider": "Akamai",
+    "category": "cdn",
+    "version": 4
+  },
+  {
     "cidr": "23.211.135.0/24",
     "provider": "Akamai",
     "category": "cdn",
@@ -45480,12 +45480,6 @@
     "version": 6
   },
   {
-    "cidr": "2600:1404:5c00::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
     "cidr": "2600:1404:6400::/48",
     "provider": "Akamai",
     "category": "cdn",
@@ -51883,12 +51877,6 @@
   },
   {
     "cidr": "2a02:26f7:70::/48",
-    "provider": "Akamai",
-    "category": "cdn",
-    "version": 6
-  },
-  {
-    "cidr": "2a02:26f7:74::/48",
     "provider": "Akamai",
     "category": "cdn",
     "version": 6
@@ -63727,12 +63715,6 @@
   },
   {
     "cidr": "152.233.60.225/32",
-    "provider": "Bunny",
-    "category": "cdn",
-    "version": 4
-  },
-  {
-    "cidr": "156.59.66.182/32",
     "provider": "Bunny",
     "category": "cdn",
     "version": 4
@@ -357858,12 +357840,6 @@
     "version": 4
   },
   {
-    "cidr": "8.220.171.0/24",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
     "cidr": "8.220.192.0/18",
     "provider": "Alibaba",
     "category": "hosting",
@@ -358711,6 +358687,42 @@
   },
   {
     "cidr": "43.95.32.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.64.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.64.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.96.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.128.0/18",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.128.0/19",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "43.95.160.0/19",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -364554,6 +364566,12 @@
     "version": 4
   },
   {
+    "cidr": "47.251.234.0/24",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "47.252.0.0/17",
     "provider": "Alibaba",
     "category": "hosting",
@@ -366523,12 +366541,6 @@
   },
   {
     "cidr": "139.95.18.0/23",
-    "provider": "Alibaba",
-    "category": "hosting",
-    "version": 4
-  },
-  {
-    "cidr": "139.95.21.0/24",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 4
@@ -369661,6 +369673,12 @@
   },
   {
     "cidr": "240b:4004:8000::/33",
+    "provider": "Alibaba",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "240b:4004:fffe::/48",
     "provider": "Alibaba",
     "category": "hosting",
     "version": 6
@@ -390468,6 +390486,12 @@
     "version": 4
   },
   {
+    "cidr": "32.202.228.0/22",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "32.232.0.0/16",
     "provider": "AWS",
     "category": "hosting",
@@ -392947,6 +392971,12 @@
   },
   {
     "cidr": "40.163.4.0/24",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "40.163.5.0/24",
     "provider": "AWS",
     "category": "hosting",
     "version": 4
@@ -409512,6 +409542,18 @@
     "version": 4
   },
   {
+    "cidr": "83.160.241.0/25",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
+    "cidr": "83.160.244.0/22",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 4
+  },
+  {
     "cidr": "83.162.0.0/15",
     "provider": "AWS",
     "category": "hosting",
@@ -424224,6 +424266,12 @@
     "version": 6
   },
   {
+    "cidr": "2600:1f18:7cdd:1a00::/56",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
     "cidr": "2600:1f18:7fff:f800::/56",
     "provider": "AWS",
     "category": "hosting",
@@ -424483,6 +424531,18 @@
   },
   {
     "cidr": "2600:1f1e:c000::/36",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f1e:c38f:1500::/56",
+    "provider": "AWS",
+    "category": "hosting",
+    "version": 6
+  },
+  {
+    "cidr": "2600:1f1e:cbe6:6700::/56",
     "provider": "AWS",
     "category": "hosting",
     "version": 6

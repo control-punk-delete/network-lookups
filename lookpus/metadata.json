@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-11-20T06:32:25.848217+00:00",
+  "generated": "2026-11-21T06:23:51.527133+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 161087,
+  "prefixes": 161097,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10242
+      "prefixes": 10240
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 935
+      "prefixes": 934
     },
     {
       "provider": "Cachefly",
@@ -169,12 +169,12 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2450
+      "prefixes": 2456
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11490
+      "prefixes": 11497
     },
     {
       "provider": "Azure",
