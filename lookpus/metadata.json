@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-11-24T09:12:34.712802+00:00",
+  "generated": "2026-11-25T07:48:22.420555+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 161071,
+  "prefixes": 164407,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10256
+      "prefixes": 10252
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 934
+      "prefixes": 933
     },
     {
       "provider": "Cachefly",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1838
+      "prefixes": 1835
     },
     {
       "provider": "Quic-cloud",
@@ -169,22 +169,22 @@
     {
       "provider": "Alibaba",
       "category": "hosting",
-      "prefixes": 2456
+      "prefixes": 2454
     },
     {
       "provider": "AWS",
       "category": "hosting",
-      "prefixes": 11496
+      "prefixes": 11500
     },
     {
       "provider": "Azure",
       "category": "hosting",
-      "prefixes": 67506
+      "prefixes": 70810
     },
     {
       "provider": "Baidu",
       "category": "hosting",
-      "prefixes": 177
+      "prefixes": 178
     },
     {
       "provider": "DigitalOcean",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 682
+      "prefixes": 683
     },
     {
       "provider": "IBM Cloud",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2050
+      "prefixes": 2064
     },
     {
       "provider": "Linode",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 774
+      "prefixes": 784
     },
     {
       "provider": "Rackspace",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3416
+      "prefixes": 3425
     },
     {
       "provider": "UpCloud",
@@ -274,12 +274,12 @@
     {
       "provider": "Yandex",
       "category": "hosting",
-      "prefixes": 160
+      "prefixes": 161
     },
     {
       "provider": "TOR",
       "category": "tor",
-      "prefixes": 1251
+      "prefixes": 1253
     }
   ]
 }
