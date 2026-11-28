@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "lookup_version": "0.1.0",
-  "generated": "2026-11-27T07:40:05.092234+00:00",
+  "generated": "2026-11-28T07:05:38.106225+00:00",
   "providers": 55,
   "categories": 4,
-  "prefixes": 164402,
+  "prefixes": 164445,
   "providers_stats": [
     {
       "provider": "Akamai",
       "category": "cdn",
-      "prefixes": 10246
+      "prefixes": 10250
     },
     {
       "provider": "Bunny",
       "category": "cdn",
-      "prefixes": 933
+      "prefixes": 954
     },
     {
       "provider": "Cachefly",
@@ -34,7 +34,7 @@
     {
       "provider": "G-Core",
       "category": "cdn",
-      "prefixes": 1825
+      "prefixes": 1821
     },
     {
       "provider": "Quic-cloud",
@@ -204,7 +204,7 @@
     {
       "provider": "Hetzner",
       "category": "hosting",
-      "prefixes": 696
+      "prefixes": 697
     },
     {
       "provider": "Hostway",
@@ -214,7 +214,7 @@
     {
       "provider": "Huawei Cloud",
       "category": "hosting",
-      "prefixes": 683
+      "prefixes": 685
     },
     {
       "provider": "IBM Cloud",
@@ -224,7 +224,7 @@
     {
       "provider": "Leaseweb",
       "category": "hosting",
-      "prefixes": 2061
+      "prefixes": 2062
     },
     {
       "provider": "Linode",
@@ -234,7 +234,7 @@
     {
       "provider": "NHN Cloud",
       "category": "hosting",
-      "prefixes": 378
+      "prefixes": 379
     },
     {
       "provider": "Oracle Cloud",
@@ -244,7 +244,7 @@
     {
       "provider": "Ovh Cloud",
       "category": "hosting",
-      "prefixes": 779
+      "prefixes": 795
     },
     {
       "provider": "Rackspace",
@@ -259,7 +259,7 @@
     {
       "provider": "Tencent",
       "category": "hosting",
-      "prefixes": 3425
+      "prefixes": 3426
     },
     {
       "provider": "UpCloud",
